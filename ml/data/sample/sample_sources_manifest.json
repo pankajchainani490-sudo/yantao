@@ -1,0 +1,40 @@
+{
+  "labels": [
+    {
+      "label": "benign",
+      "type": "mixed",
+      "primary_sources": [
+        "local_normal_capture",
+        "public_benign_subset"
+      ],
+      "notes": "Use browser, file download, SSH, ping, and video playback traces in an authorized environment."
+    },
+    {
+      "label": "arp_spoof",
+      "type": "lab",
+      "primary_sources": [
+        "isolated_arp_spoof_capture"
+      ],
+      "notes": "Collect only inside an isolated lab using controlled tools such as arpspoof or bettercap."
+    },
+    {
+      "label": "ddos",
+      "type": "mixed",
+      "primary_sources": [
+        "CIC-DDoS2019",
+        "CIC-IDS2017",
+        "isolated_ddos_replay_capture"
+      ],
+      "notes": "Use public datasets for scale and lab replay for demonstration."
+    },
+    {
+      "label": "trojan",
+      "type": "mixed",
+      "primary_sources": [
+        "CTU-13",
+        "public_trojan_pcap_subset"
+      ],
+      "notes": "Prefer public malicious traffic traces over executing real malware locally."
+    }
+  ]
+}

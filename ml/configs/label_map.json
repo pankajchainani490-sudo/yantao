@@ -1,0 +1,6 @@
+{
+  "benign": 0,
+  "arp_spoof": 1,
+  "ddos": 2,
+  "trojan": 3
+}

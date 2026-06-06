@@ -1,0 +1,90 @@
+{
+  "dataset": {
+    "rows": 32,
+    "feature_columns": [
+      "src_port",
+      "dst_port",
+      "packet_len_mean",
+      "packet_len_max",
+      "packet_len_min",
+      "packet_len_std",
+      "packets_per_sec",
+      "bytes_per_sec",
+      "flow_duration",
+      "packet_len_range",
+      "bytes_per_packet",
+      "port_gap",
+      "is_system_src_port",
+      "is_system_dst_port",
+      "throughput_per_duration"
+    ],
+    "train_rows": 24,
+    "test_rows": 8
+  },
+  "models": {
+    "decision_tree": {
+      "accuracy": 1.0,
+      "precision_macro": 1.0,
+      "recall_macro": 1.0,
+      "f1_macro": 1.0,
+      "confusion_matrix": [
+        [
+          2,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          2,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          2,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          2
+        ]
+      ]
+    },
+    "random_forest": {
+      "accuracy": 1.0,
+      "precision_macro": 1.0,
+      "recall_macro": 1.0,
+      "f1_macro": 1.0,
+      "confusion_matrix": [
+        [
+          2,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          2,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          2,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          2
+        ]
+      ]
+    }
+  }
+}

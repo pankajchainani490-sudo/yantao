@@ -1,0 +1,16 @@
+feature,importance
+packet_len_min,0.6666666666666666
+src_port,0.3333333333333333
+dst_port,0.0
+packet_len_mean,0.0
+packet_len_max,0.0
+packet_len_std,0.0
+packets_per_sec,0.0
+bytes_per_sec,0.0
+flow_duration,0.0
+packet_len_range,0.0
+bytes_per_packet,0.0
+port_gap,0.0
+is_system_src_port,0.0
+is_system_dst_port,0.0
+throughput_per_duration,0.0

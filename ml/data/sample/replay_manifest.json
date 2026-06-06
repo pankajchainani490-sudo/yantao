@@ -1,0 +1,30 @@
+{
+  "name": "demo_replay_baseline",
+  "description": "Ordered replay plan for the final defense demo, starting from benign traffic and introducing malicious scenarios incrementally.",
+  "stages": [
+    {
+      "order": 1,
+      "label": "benign",
+      "source": "sample_features_benign.csv",
+      "purpose": "Establish a clean baseline with normal traffic."
+    },
+    {
+      "order": 2,
+      "label": "arp_spoof",
+      "source": "sample_features_arp_spoof.csv",
+      "purpose": "Trigger spoofing-oriented alerts and blacklist candidate generation."
+    },
+    {
+      "order": 3,
+      "label": "ddos",
+      "source": "sample_features_ddos.csv",
+      "purpose": "Show burst traffic patterns, rising alert counts, and dashboard trend changes."
+    },
+    {
+      "order": 4,
+      "label": "trojan",
+      "source": "sample_features_trojan.csv",
+      "purpose": "Demonstrate suspicious command-and-control style traffic classification."
+    }
+  ]
+}
