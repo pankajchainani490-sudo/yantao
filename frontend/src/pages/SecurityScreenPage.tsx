@@ -228,7 +228,6 @@ function SecurityScreenPage() {
 
         <div className="screen-sim-actions">
           {(data?.scenarios ?? [])
-            .filter((scenario) => scenario.id !== 'arp_spoof_lab')
             .map((scenario) => (
               <button
                 type="button"

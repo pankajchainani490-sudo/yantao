@@ -1,0 +1,986 @@
+{"kind":"deck","id":"pr/lxg7cs","name":"Deck"}
+{"kind":"layout","layoutId":"f5ea610e-bc82-4ec4-97f0-2ad700d8f7bb","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"5aeedcca-a669-4c18-b992-d3ce814fc164","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/vds3ik","slide":1,"title":"恶意流量识别系统","textShapes":24}
+{"kind":"shape","id":"sh/ap4r65wj","slide":1,"bbox":[0,0,0,720]}
+{"kind":"shape","id":"sh/hgn29gr2","slide":1,"bbox":[80,0,0,720]}
+{"kind":"shape","id":"sh/svu9knih","slide":1,"bbox":[160,0,0,720]}
+{"kind":"shape","id":"sh/zidonyd0","slide":1,"bbox":[240,0,0,720]}
+{"kind":"shape","id":"sh/a1gvy90j","slide":1,"bbox":[320,0,0,720]}
+{"kind":"shape","id":"sh/hoza1gvy","slide":1,"bbox":[400,0,0,720]}
+{"kind":"shape","id":"sh/s36hcrmh","slide":1,"bbox":[480,0,0,720]}
+{"kind":"shape","id":"sh/3m94fu18","slide":1,"bbox":[560,0,0,720]}
+{"kind":"shape","id":"sh/a5gbq1or","slide":1,"bbox":[640,0,0,720]}
+{"kind":"shape","id":"sh/kf6dcbul","slide":1,"bbox":[720,0,0,720]}
+{"kind":"shape","id":"sh/d0z61032","slide":1,"bbox":[800,0,0,720]}
+{"kind":"shape","id":"sh/29gr2p8n","slide":1,"bbox":[880,0,0,720]}
+{"kind":"shape","id":"sh/vu9knih4","slide":1,"bbox":[960,0,0,720]}
+{"kind":"shape","id":"sh/knih4byh","slide":1,"bbox":[1040,0,0,720]}
+{"kind":"shape","id":"sh/d8bat47y","slide":1,"bbox":[1120,0,0,720]}
+{"kind":"shape","id":"sh/2lszqtcj","slide":1,"bbox":[1200,0,0,720]}
+{"kind":"shape","id":"sh/v6psfil0","slide":1,"bbox":[1280,0,0,720]}
+{"kind":"shape","id":"sh/kre1w7mp","slide":1,"bbox":[0,0,1280,0]}
+{"kind":"shape","id":"sh/dcbulwva","slide":1,"bbox":[0,80,1280,0]}
+{"kind":"shape","id":"sh/h0fepkzu","slide":1,"bbox":[0,160,1280,0]}
+{"kind":"shape","id":"sh/sfil0rqd","slide":1,"bbox":[0,240,1280,0]}
+{"kind":"shape","id":"sh/zupwb2hw","slide":1,"bbox":[0,320,1280,0]}
+{"kind":"shape","id":"sh/a9w3m94f","slide":1,"bbox":[0,400,1280,0]}
+{"kind":"shape","id":"sh/hcrmhk3q","slide":1,"bbox":[0,480,1280,0]}
+{"kind":"shape","id":"sh/orytsvu9","slide":1,"bbox":[0,560,1280,0]}
+{"kind":"shape","id":"sh/z61032ls","slide":1,"bbox":[0,640,1280,0]}
+{"kind":"shape","id":"sh/al87ed8b","slide":1,"bbox":[0,720,1280,0]}
+{"kind":"shape","id":"sh/hk3q5o7q","slide":1,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/oza1gvy9","slide":1,"bbox":[784,76,370,230]}
+{"kind":"textbox","id":"sh/idonyd0z","slide":1,"text":"恶意流量识别系统","textPreview":"恶意流量识别系统","textChars":8,"textLines":1,"bbox":[72,94,740,80]}
+{"kind":"textbox","id":"sh/byhgn29g","slide":1,"text":"基于机器学习的\n恶意流量识别系统","textPreview":"基于机器学习的 | 恶意流量识别系统","textChars":16,"textLines":2,"bbox":[72,168,760,148]}
+{"kind":"textbox","id":"sh/0je9cvix","slide":1,"text":"从网站目标接入、流量特征提取到告警处置的端到端安全识别平台","textPreview":"从网站目标接入、流量特征提取到告警处置的端到端安全识别平台","textChars":29,"textLines":1,"bbox":[76,330,748,64]}
+{"kind":"shape","id":"sh/t47y1kre","slide":1,"bbox":[76,430,126,36]}
+{"kind":"textbox","id":"sh/il0rqd4v","slide":1,"text":"网站目标接入","textPreview":"网站目标接入","textChars":6,"textLines":1,"bbox":[84,435,110,28]}
+{"kind":"shape","id":"sh/b6xkf6dc","slide":1,"bbox":[216,430,126,36]}
+{"kind":"textbox","id":"sh/0rqd4vmt","slide":1,"text":"实时流量观测","textPreview":"实时流量观测","textChars":6,"textLines":1,"bbox":[224,435,110,28]}
+{"kind":"shape","id":"sh/tcj6tova","slide":1,"bbox":[356,430,142,36]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":1,"text":"ML 分类识别","textPreview":"ML 分类识别","textChars":7,"textLines":1,"bbox":[364,435,126,28]}
+{"kind":"shape","id":"sh/bi9s36hc","slide":1,"bbox":[512,430,126,36]}
+{"kind":"textbox","id":"sh/bat47y1k","slide":1,"text":"告警与黑名单","textPreview":"告警与黑名单","textChars":6,"textLines":1,"bbox":[520,435,110,28]}
+{"kind":"shape","id":"sh/mp0bi9s3","slide":1,"bbox":[652,430,126,36]}
+{"kind":"textbox","id":"sh/tgfmlkjm","slide":1,"text":"科技态势大屏","textPreview":"科技态势大屏","textChars":6,"textLines":1,"bbox":[660,435,110,28]}
+{"kind":"textbox","id":"sh/4vmtwra5","slide":1,"text":"核心识别类别","textPreview":"核心识别类别","textChars":6,"textLines":1,"bbox":[80,535,180,24]}
+{"kind":"shape","id":"sh/bm58z25k","slide":1,"bbox":[80,566,176,66]}
+{"kind":"textbox","id":"sh/m1cfa9w3","slide":1,"text":"benign","textPreview":"benign","textChars":6,"textLines":1,"bbox":[96,575,144,20]}
+{"kind":"textbox","id":"sh/tsvu9kni","slide":1,"text":"正常流量","textPreview":"正常流量","textChars":4,"textLines":1,"bbox":[96,600,144,24]}
+{"kind":"shape","id":"sh/47y1kre1","slide":1,"bbox":[270,566,176,66]}
+{"kind":"textbox","id":"sh/bq1oryts","slide":1,"text":"arp_spoof","textPreview":"arp_spoof","textChars":9,"textLines":1,"bbox":[286,575,144,20]}
+{"kind":"textbox","id":"sh/m58z25kb","slide":1,"text":"ARP 欺骗","textPreview":"ARP 欺骗","textChars":6,"textLines":1,"bbox":[286,600,144,24]}
+{"kind":"shape","id":"sh/w7mp0bi9","slide":1,"bbox":[460,566,176,66]}
+{"kind":"textbox","id":"sh/psfil0rq","slide":1,"text":"ddos","textPreview":"ddos","textChars":4,"textLines":1,"bbox":[476,575,144,20]}
+{"kind":"textbox","id":"sh/e1w7mp0b","slide":1,"text":"DDoS / 洪泛","textPreview":"DDoS / 洪泛","textChars":9,"textLines":1,"bbox":[476,600,144,24]}
+{"kind":"shape","id":"sh/7mp0bi9s","slide":1,"bbox":[650,566,176,66]}
+{"kind":"textbox","id":"sh/wval87ed","slide":1,"text":"trojan","textPreview":"trojan","textChars":6,"textLines":1,"bbox":[666,575,144,20]}
+{"kind":"textbox","id":"sh/pg3ex0nu","slide":1,"text":"木马通信","textPreview":"木马通信","textChars":4,"textLines":1,"bbox":[666,600,144,24]}
+{"kind":"shape","id":"sh/epkzupwb","slide":1,"bbox":[923,248,184,184]}
+{"kind":"shape","id":"sh/7adsji5s","slide":1,"bbox":[969,294,92,92]}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":1,"text":"ML\nCORE","textPreview":"ML | CORE","textChars":7,"textLines":2,"bbox":[975,310,80,60]}
+{"kind":"shape","id":"sh/lc7u54zi","slide":1,"bbox":[835,182,96,96]}
+{"kind":"textbox","id":"sh/p4r65wju","slide":1,"text":"Data","textPreview":"Data","textChars":4,"textLines":1,"bbox":[845,217,76,25]}
+{"kind":"shape","id":"sh/wjudg7ad","slide":1,"bbox":[883,230,132,110]}
+{"kind":"shape","id":"sh/7y1kre1w","slide":1,"bbox":[1100,176,96,96]}
+{"kind":"textbox","id":"sh/ed8v6psf","slide":1,"text":"API","textPreview":"API","textChars":3,"textLines":1,"bbox":[1110,211,76,25]}
+{"kind":"shape","id":"sh/pwb2hwfy","slide":1,"bbox":[1148,224,-133,116]}
+{"kind":"shape","id":"sh/0bi9s36h","slide":1,"bbox":[1132,460,96,96]}
+{"kind":"textbox","id":"sh/7qpg3ex0","slide":1,"text":"Screen","textPreview":"Screen","textChars":6,"textLines":1,"bbox":[1142,495,76,25]}
+{"kind":"shape","id":"sh/i5sneloj","slide":1,"bbox":[1180,508,-165,-168]}
+{"kind":"shape","id":"sh/pkzupwb2","slide":1,"bbox":[815,474,96,96]}
+{"kind":"textbox","id":"sh/0z61032l","slide":1,"text":"响应","textPreview":"响应","textChars":2,"textLines":1,"bbox":[825,509,76,25]}
+{"kind":"shape","id":"sh/qh0fepkz","slide":1,"bbox":[863,522,152,-182]}
+{"kind":"textbox","id":"sh/j2t83itg","slide":1,"text":"PROJECT INTRODUCTION","textPreview":"PROJECT INTRODUCTION","textChars":20,"textLines":1,"bbox":[72,676,360,22]}
+{"kind":"textbox","id":"sh/8nqxs72x","slide":1,"text":"2026.06","textPreview":"2026.06","textChars":7,"textLines":1,"bbox":[1116,676,100,22]}
+{"kind":"notes","id":"nt/vds3ik","slide":1,"text":"封面。项目定位为面向网站目标接入的恶意流量识别系统，覆盖实时观测、机器学习识别、告警处置和态势大屏。"}
+{"kind":"slide","id":"sl/o7ddl8","slide":2,"title":"01 / POSITIONING","textShapes":25}
+{"kind":"shape","id":"sh/4zidonyd","slide":2,"bbox":[0,0,0,720]}
+{"kind":"shape","id":"sh/fepkzupw","slide":2,"bbox":[80,0,0,720]}
+{"kind":"shape","id":"sh/mtwra5gb","slide":2,"bbox":[160,0,0,720]}
+{"kind":"shape","id":"sh/xc3ylc7u","slide":2,"bbox":[240,0,0,720]}
+{"kind":"shape","id":"sh/4r65wjud","slide":2,"bbox":[320,0,0,720]}
+{"kind":"shape","id":"sh/f6dcbulw","slide":2,"bbox":[400,0,0,720]}
+{"kind":"shape","id":"sh/mlkjm1cf","slide":2,"bbox":[480,0,0,720]}
+{"kind":"shape","id":"sh/x0nuxc3y","slide":2,"bbox":[560,0,0,720]}
+{"kind":"shape","id":"sh/4fu18jqh","slide":2,"bbox":[640,0,0,720]}
+{"kind":"shape","id":"sh/6dcbulwv","slide":2,"bbox":[720,0,0,720]}
+{"kind":"shape","id":"sh/vy90je9c","slide":2,"bbox":[800,0,0,720]}
+{"kind":"shape","id":"sh/oj2t83it","slide":2,"bbox":[880,0,0,720]}
+{"kind":"shape","id":"sh/d4vmtwra","slide":2,"bbox":[960,0,0,720]}
+{"kind":"shape","id":"sh/61032lsz","slide":2,"bbox":[1040,0,0,720]}
+{"kind":"shape","id":"sh/vmtwra5g","slide":2,"bbox":[1120,0,0,720]}
+{"kind":"shape","id":"sh/o7qpg3ex","slide":2,"bbox":[1200,0,0,720]}
+{"kind":"shape","id":"sh/dsji5sne","slide":2,"bbox":[1280,0,0,720]}
+{"kind":"shape","id":"sh/6tovahoz","slide":2,"bbox":[0,0,1280,0]}
+{"kind":"shape","id":"sh/vahoza1g","slide":2,"bbox":[0,80,1280,0]}
+{"kind":"shape","id":"sh/r65wjudg","slide":2,"bbox":[0,160,1280,0]}
+{"kind":"shape","id":"sh/ylc7u54z","slide":2,"bbox":[0,240,1280,0]}
+{"kind":"shape","id":"sh/9cvixcze","slide":2,"bbox":[0,320,1280,0]}
+{"kind":"shape","id":"sh/gr2p8nqx","slide":2,"bbox":[0,400,1280,0]}
+{"kind":"shape","id":"sh/nih4byhg","slide":2,"bbox":[0,480,1280,0]}
+{"kind":"shape","id":"sh/yxobm58z","slide":2,"bbox":[0,560,1280,0]}
+{"kind":"shape","id":"sh/5o7qpg3e","slide":2,"bbox":[0,640,1280,0]}
+{"kind":"shape","id":"sh/g3ex0nux","slide":2,"bbox":[0,720,1280,0]}
+{"kind":"shape","id":"sh/rmhk3q5o","slide":2,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/y1kre1w7","slide":2,"bbox":[784,76,370,230]}
+{"kind":"textbox","id":"sh/sji5snel","slide":2,"text":"01 / POSITIONING","textPreview":"01 / POSITIONING","textChars":16,"textLines":1,"bbox":[64,42,610,22]}
+{"kind":"textbox","id":"sh/h4byhgn2","slide":2,"text":"项目定位：面向网站接入的恶意流量识别工具","textPreview":"项目定位：面向网站接入的恶意流量识别工具","textChars":20,"textLines":1,"bbox":[64,66,930,52]}
+{"kind":"shape","id":"sh/adsji5sn","slide":2,"bbox":[992,52,224,32]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":2,"text":"ML TRAFFIC SECURITY","textPreview":"ML TRAFFIC SECURITY","textChars":19,"textLines":1,"bbox":[1000,57,208,24]}
+{"kind":"shape","id":"sh/s72x4nap","slide":2,"bbox":[64,674,1152,0]}
+{"kind":"textbox","id":"sh/lszqtcj6","slide":2,"text":"来源：README、frontend/src/pages/SecurityScreenPage.tsx、backend/app/services/monitor_service.py","textPreview":"来源：README、frontend/src/pages/SecurityScreenPage.tsx、backend/app/services/monitor_service.py","textChars":91,"textLines":1,"bbox":[64,684,840,18]}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":2,"text":"02 / 12","textPreview":"02 / 12","textChars":7,"textLines":1,"bbox":[1118,681,98,24]}
+{"kind":"textbox","id":"sh/3m94fu18","slide":2,"text":"系统要解决的不是“展示已有攻击样例”，而是把一个网站、域名、IP 或 localhost 端口登记为识别对象，围绕该对象持续生成可解释的安全态势。","textPreview":"系统要解决的不是“展示已有攻击样例”，而是把一个网站、域名、IP 或 localhost 端口登记为识别对象，围绕该对象持续生成可解释的安全态势。","textChars":73,"textLines":1,"bbox":[64,128,1070,48]}
+{"kind":"shape","id":"sh/s36hcrmh","slide":2,"bbox":[64,214,352,162]}
+{"kind":"shape","id":"sh/hoza1gvy","slide":2,"bbox":[64,214,8,162]}
+{"kind":"textbox","id":"sh/dcbulwva","slide":2,"text":"目标接入","textPreview":"目标接入","textChars":4,"textLines":1,"bbox":[92,240,280,30]}
+{"kind":"textbox","id":"sh/kre1w7mp","slide":2,"text":"输入域名 / IP / localhost 端口，生成可选择的监测对象。","textPreview":"输入域名 / IP / localhost 端口，生成可选择的监测对象。","textChars":36,"textLines":1,"bbox":[92,286,296,60]}
+{"kind":"shape","id":"sh/val87ed8","slide":2,"bbox":[448,214,352,162]}
+{"kind":"shape","id":"sh/6psfil0r","slide":2,"bbox":[448,214,8,162]}
+{"kind":"textbox","id":"sh/donyd0z6","slide":2,"text":"实时识别","textPreview":"实时识别","textChars":4,"textLines":1,"bbox":[476,240,280,30]}
+{"kind":"textbox","id":"sh/k3q5o7qp","slide":2,"text":"观测事件进入后端，转换为模型特征并输出类别、风险和置信度。","textPreview":"观测事件进入后端，转换为模型特征并输出类别、风险和置信度。","textChars":29,"textLines":1,"bbox":[476,286,296,60]}
+{"kind":"shape","id":"sh/vixczed8","slide":2,"bbox":[832,214,352,162]}
+{"kind":"shape","id":"sh/2x4nap4r","slide":2,"bbox":[832,214,8,162]}
+{"kind":"textbox","id":"sh/d0z61032","slide":2,"text":"持续处置","textPreview":"持续处置","textChars":4,"textLines":1,"bbox":[860,240,280,30]}
+{"kind":"textbox","id":"sh/kf6dcbul","slide":2,"text":"非正常流量形成告警，多次命中后进入自动黑名单。","textPreview":"非正常流量形成告警，多次命中后进入自动黑名单。","textChars":23,"textLines":1,"bbox":[860,286,296,60]}
+{"kind":"textbox","id":"sh/y90je9cv","slide":2,"text":"识别对象与输出结果","textPreview":"识别对象与输出结果","textChars":9,"textLines":1,"bbox":[70,422,250,30]}
+{"kind":"shape","id":"sh/nuxc3ylc","slide":2,"bbox":[70,466,1118,0]}
+{"kind":"shape","id":"sh/gbq1oryt","slide":2,"bbox":[78,496,224,112]}
+{"kind":"shape","id":"sh/5wjudg7a","slide":2,"bbox":[94,514,30,30]}
+{"kind":"textbox","id":"sh/yhgn29gr","slide":2,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[94,518,30,24]}
+{"kind":"textbox","id":"sh/n29gr2p8","slide":2,"text":"目标","textPreview":"目标","textChars":2,"textLines":1,"bbox":[136,513,148,30]}
+{"kind":"textbox","id":"sh/gn29gr2p","slide":2,"text":"http://localhost:5174\nexample.com\n10.0.0.8","textPreview":"http://localhost:5174 | example.com | 10.0.0.8","textChars":42,"textLines":3,"bbox":[98,554,184,42]}
+{"kind":"shape","id":"sh/58z25kb6","slide":2,"bbox":[328,496,224,112]}
+{"kind":"shape","id":"sh/ytsvu9kn","slide":2,"bbox":[344,514,30,30]}
+{"kind":"textbox","id":"sh/neloj2t8","slide":2,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[344,518,30,24]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":2,"text":"观测","textPreview":"观测","textChars":2,"textLines":1,"bbox":[386,513,148,30]}
+{"kind":"textbox","id":"sh/mtwra5gb","slide":2,"text":"包长、端口、速率、持续时间\n按 target_id 记录","textPreview":"包长、端口、速率、持续时间 | 按 target_id 记录","textChars":28,"textLines":2,"bbox":[348,554,184,42]}
+{"kind":"shape","id":"sh/xkf6dcbu","slide":2,"bbox":[578,496,224,112]}
+{"kind":"shape","id":"sh/4zidonyd","slide":2,"bbox":[594,514,30,30]}
+{"kind":"textbox","id":"sh/f6dcbulw","slide":2,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[594,518,30,24]}
+{"kind":"textbox","id":"sh/mlkjm1cf","slide":2,"text":"分类","textPreview":"分类","textChars":2,"textLines":1,"bbox":[636,513,148,30]}
+{"kind":"textbox","id":"sh/xc3ylc7u","slide":2,"text":"benign / arp_spoof\nddos / trojan","textPreview":"benign / arp_spoof | ddos / trojan","textChars":32,"textLines":2,"bbox":[598,554,184,42]}
+{"kind":"shape","id":"sh/4r65wjud","slide":2,"bbox":[828,496,224,112]}
+{"kind":"shape","id":"sh/fu18jqh0","slide":2,"bbox":[844,514,30,30]}
+{"kind":"textbox","id":"sh/m94fu18j","slide":2,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[844,518,30,24]}
+{"kind":"textbox","id":"sh/0bi9s36h","slide":2,"text":"处置","textPreview":"处置","textChars":2,"textLines":1,"bbox":[886,513,148,30]}
+{"kind":"textbox","id":"sh/pwb2hwfy","slide":2,"text":"告警、Top 来源、攻击分布\n黑名单联动","textPreview":"告警、Top 来源、攻击分布 | 黑名单联动","textChars":20,"textLines":2,"bbox":[848,554,184,42]}
+{"kind":"shape","id":"sh/i5sneloj","slide":2,"bbox":[302,552,26,0]}
+{"kind":"shape","id":"sh/7qpg3ex0","slide":2,"bbox":[552,552,26,0]}
+{"kind":"shape","id":"sh/wjudg7ad","slide":2,"bbox":[802,552,26,0]}
+{"kind":"notes","id":"nt/o7ddl8","slide":2,"text":"项目定位页。强调系统已从静态数据展示重构为可登记监测对象、实时模拟/观测、模型识别和处置闭环的平台。"}
+{"kind":"slide","id":"sl/vdpqpp","slide":3,"title":"02 / ARCHITECTURE","textShapes":25}
+{"kind":"shape","id":"sh/pwb2hwfy","slide":3,"bbox":[0,0,0,720]}
+{"kind":"shape","id":"sh/i5sneloj","slide":3,"bbox":[80,0,0,720]}
+{"kind":"shape","id":"sh/7qpg3ex0","slide":3,"bbox":[160,0,0,720]}
+{"kind":"shape","id":"sh/wjudg7ad","slide":3,"bbox":[240,0,0,720]}
+{"kind":"shape","id":"sh/p4r65wju","slide":3,"bbox":[320,0,0,720]}
+{"kind":"shape","id":"sh/ed8v6psf","slide":3,"bbox":[400,0,0,720]}
+{"kind":"shape","id":"sh/7y1kre1w","slide":3,"bbox":[480,0,0,720]}
+{"kind":"shape","id":"sh/0nuxc3yl","slide":3,"bbox":[560,0,0,720]}
+{"kind":"shape","id":"sh/p8nqxs72","slide":3,"bbox":[640,0,0,720]}
+{"kind":"shape","id":"sh/xobm58z2","slide":3,"bbox":[720,0,0,720]}
+{"kind":"shape","id":"sh/83itgfml","slide":3,"bbox":[800,0,0,720]}
+{"kind":"shape","id":"sh/fil0rqd4","slide":3,"bbox":[880,0,0,720]}
+{"kind":"shape","id":"sh/qxs72x4n","slide":3,"bbox":[960,0,0,720]}
+{"kind":"shape","id":"sh/x0nuxc3y","slide":3,"bbox":[1040,0,0,720]}
+{"kind":"shape","id":"sh/4fu18jqh","slide":3,"bbox":[1120,0,0,720]}
+{"kind":"shape","id":"sh/fu18jqh0","slide":3,"bbox":[1200,0,0,720]}
+{"kind":"shape","id":"sh/m94fu18j","slide":3,"bbox":[1280,0,0,720]}
+{"kind":"shape","id":"sh/xc3ylc7u","slide":3,"bbox":[0,0,1280,0]}
+{"kind":"shape","id":"sh/4r65wjud","slide":3,"bbox":[0,80,1280,0]}
+{"kind":"shape","id":"sh/032lszqt","slide":3,"bbox":[0,160,1280,0]}
+{"kind":"shape","id":"sh/tovahoza","slide":3,"bbox":[0,240,1280,0]}
+{"kind":"shape","id":"sh/ixczed8v","slide":3,"bbox":[0,320,1280,0]}
+{"kind":"shape","id":"sh/bi9s36hc","slide":3,"bbox":[0,400,1280,0]}
+{"kind":"shape","id":"sh/0fepkzup","slide":3,"bbox":[0,480,1280,0]}
+{"kind":"shape","id":"sh/p0bi9s36","slide":3,"bbox":[0,560,1280,0]}
+{"kind":"shape","id":"sh/i9s36hcr","slide":3,"bbox":[0,640,1280,0]}
+{"kind":"shape","id":"sh/bulwval8","slide":3,"bbox":[0,720,1280,0]}
+{"kind":"shape","id":"sh/0je9cvix","slide":3,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/t47y1kre","slide":3,"bbox":[784,76,370,230]}
+{"kind":"textbox","id":"sh/zqtcj6to","slide":3,"text":"02 / ARCHITECTURE","textPreview":"02 / ARCHITECTURE","textChars":17,"textLines":1,"bbox":[64,42,610,22]}
+{"kind":"textbox","id":"sh/65wjudg7","slide":3,"text":"总体架构：数据、模型、服务、前端闭环","textPreview":"总体架构：数据、模型、服务、前端闭环","textChars":18,"textLines":1,"bbox":[64,66,930,52]}
+{"kind":"shape","id":"sh/hwfyxobm","slide":3,"bbox":[992,52,224,32]}
+{"kind":"textbox","id":"sh/obm58z25","slide":3,"text":"ML TRAFFIC SECURITY","textPreview":"ML TRAFFIC SECURITY","textChars":19,"textLines":1,"bbox":[1000,57,208,24]}
+{"kind":"shape","id":"sh/zed8v6ps","slide":3,"bbox":[64,674,1152,0]}
+{"kind":"textbox","id":"sh/6xkf6dcb","slide":3,"text":"来源：docs/architecture/README.md、backend/app/api/routes、frontend/src/api/security.ts","textPreview":"来源：docs/architecture/README.md、backend/app/api/routes、frontend/src/api/security.ts","textChars":82,"textLines":1,"bbox":[64,684,840,18]}
+{"kind":"textbox","id":"sh/hk3q5o7q","slide":3,"text":"03 / 12","textPreview":"03 / 12","textChars":7,"textLines":1,"bbox":[1118,681,98,24]}
+{"kind":"shape","id":"sh/oza1gvy9","slide":3,"bbox":[92,144,868,84]}
+{"kind":"textbox","id":"sh/z61032ls","slide":3,"text":"数据层","textPreview":"数据层","textChars":3,"textLines":1,"bbox":[120,160,120,28]}
+{"kind":"textbox","id":"sh/al87ed8b","slide":3,"text":"raw / interim / processed / sample","textPreview":"raw / interim / processed / sample","textChars":34,"textLines":1,"bbox":[256,158,620,24]}
+{"kind":"textbox","id":"sh/qpg3ex0n","slide":3,"text":"原始数据、流级窗口、模型输入表、演示样本","textPreview":"原始数据、流级窗口、模型输入表、演示样本","textChars":20,"textLines":1,"bbox":[256,188,630,24]}
+{"kind":"shape","id":"sh/fa9w3m94","slide":3,"bbox":[526,228,0,28]}
+{"kind":"shape","id":"sh/8v6psfil","slide":3,"bbox":[92,256,868,84]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":3,"text":"模型层","textPreview":"模型层","textChars":3,"textLines":1,"bbox":[120,272,120,28]}
+{"kind":"textbox","id":"sh/qd4vmtwr","slide":3,"text":"feature_pipeline.py / model_training.py / ml/models","textPreview":"feature_pipeline.py / model_training.py / ml/models","textChars":51,"textLines":1,"bbox":[256,270,620,24]}
+{"kind":"textbox","id":"sh/fyxobm58","slide":3,"text":"特征派生、决策树训练、随机森林训练、指标报告","textPreview":"特征派生、决策树训练、随机森林训练、指标报告","textChars":22,"textLines":1,"bbox":[256,300,630,24]}
+{"kind":"shape","id":"sh/8jqh0fep","slide":3,"bbox":[526,340,0,28]}
+{"kind":"shape","id":"sh/x4nap4r6","slide":3,"bbox":[92,368,868,84]}
+{"kind":"textbox","id":"sh/q1orytsv","slide":3,"text":"服务层","textPreview":"服务层","textChars":3,"textLines":1,"bbox":[120,384,120,28]}
+{"kind":"textbox","id":"sh/fmlkjm1c","slide":3,"text":"FastAPI / SQLite / Repository / Prediction Service","textPreview":"FastAPI / SQLite / Repository / Prediction Service","textChars":50,"textLines":1,"bbox":[256,382,620,24]}
+{"kind":"textbox","id":"sh/5sneloj2","slide":3,"text":"统一 API、预测落库、告警生成、黑名单策略","textPreview":"统一 API、预测落库、告警生成、黑名单策略","textChars":22,"textLines":1,"bbox":[256,412,630,24]}
+{"kind":"shape","id":"sh/cbulwval","slide":3,"bbox":[526,452,0,28]}
+{"kind":"shape","id":"sh/nqxs72x4","slide":3,"bbox":[92,480,868,84]}
+{"kind":"textbox","id":"sh/u54zidon","slide":3,"text":"展示层","textPreview":"展示层","textChars":3,"textLines":1,"bbox":[120,496,120,28]}
+{"kind":"textbox","id":"sh/5kb6xkf6","slide":3,"text":"React + TypeScript + Vite","textPreview":"React + TypeScript + Vite","textChars":25,"textLines":1,"bbox":[256,494,620,24]}
+{"kind":"textbox","id":"sh/czed8v6p","slide":3,"text":"安全态势大屏、控制台、检测、回放、指标与设置","textPreview":"安全态势大屏、控制台、检测、回放、指标与设置","textChars":22,"textLines":1,"bbox":[256,524,630,24]}
+{"kind":"shape","id":"sh/neloj2t8","slide":3,"bbox":[1000,144,216,420]}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":3,"text":"运行闭环","textPreview":"运行闭环","textChars":4,"textLines":1,"bbox":[1024,166,160,28]}
+{"kind":"textbox","id":"sh/58z25kb6","slide":3,"text":"1. 数据加载","textPreview":"1. 数据加载","textChars":7,"textLines":1,"bbox":[1024,212,168,24]}
+{"kind":"textbox","id":"sh/gn29gr2p","slide":3,"text":"2. 特征表构建","textPreview":"2. 特征表构建","textChars":8,"textLines":1,"bbox":[1024,258,168,24]}
+{"kind":"textbox","id":"sh/cvixczed","slide":3,"text":"3. 模型训练","textPreview":"3. 模型训练","textChars":7,"textLines":1,"bbox":[1024,304,168,24]}
+{"kind":"textbox","id":"sh/5gbq1ory","slide":3,"text":"4. 模型与报告保存","textPreview":"4. 模型与报告保存","textChars":10,"textLines":1,"bbox":[1024,350,168,24]}
+{"kind":"textbox","id":"sh/upwb2hwf","slide":3,"text":"5. API 在线推理","textPreview":"5. API 在线推理","textChars":11,"textLines":1,"bbox":[1024,396,168,24]}
+{"kind":"textbox","id":"sh/nap4r65w","slide":3,"text":"6. 前端态势展示","textPreview":"6. 前端态势展示","textChars":9,"textLines":1,"bbox":[1024,442,168,24]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":3,"text":"核心原则：训练流程、在线推理、展示交互解耦；通过 `/api/v1` 形成稳定前后端契约。","textPreview":"核心原则：训练流程、在线推理、展示交互解耦；通过 `/api/v1` 形成稳定前后端契约。","textChars":45,"textLines":1,"bbox":[92,606,984,36]}
+{"kind":"notes","id":"nt/vdpqpp","slide":3,"text":"架构页。分层说明数据层、模型层、服务层和展示层，以及从数据到前端展示的运行闭环。"}
+{"kind":"slide","id":"sl/l1090l","slide":4,"title":"03 / FEATURE PIPELINE","textShapes":28}
+{"kind":"shape","id":"sh/idonyd0z","slide":4,"bbox":[0,0,0,720]}
+{"kind":"shape","id":"sh/t47y1kre","slide":4,"bbox":[80,0,0,720]}
+{"kind":"shape","id":"sh/0je9cvix","slide":4,"bbox":[160,0,0,720]}
+{"kind":"shape","id":"sh/b6xkf6dc","slide":4,"bbox":[240,0,0,720]}
+{"kind":"shape","id":"sh/il0rqd4v","slide":4,"bbox":[320,0,0,720]}
+{"kind":"shape","id":"sh/tcj6tova","slide":4,"bbox":[400,0,0,720]}
+{"kind":"shape","id":"sh/0rqd4vmt","slide":4,"bbox":[480,0,0,720]}
+{"kind":"shape","id":"sh/bi9s36hc","slide":4,"bbox":[560,0,0,720]}
+{"kind":"shape","id":"sh/ixczed8v","slide":4,"bbox":[640,0,0,720]}
+{"kind":"shape","id":"sh/s72x4nap","slide":4,"bbox":[720,0,0,720]}
+{"kind":"shape","id":"sh/lszqtcj6","slide":4,"bbox":[800,0,0,720]}
+{"kind":"shape","id":"sh/a5gbq1or","slide":4,"bbox":[880,0,0,720]}
+{"kind":"shape","id":"sh/3m94fu18","slide":4,"bbox":[960,0,0,720]}
+{"kind":"shape","id":"sh/sji5snel","slide":4,"bbox":[1040,0,0,720]}
+{"kind":"shape","id":"sh/h4byhgn2","slide":4,"bbox":[1120,0,0,720]}
+{"kind":"shape","id":"sh/adsji5sn","slide":4,"bbox":[1200,0,0,720]}
+{"kind":"shape","id":"sh/3ylc7u54","slide":4,"bbox":[1280,0,0,720]}
+{"kind":"shape","id":"sh/svu9knih","slide":4,"bbox":[0,0,1280,0]}
+{"kind":"shape","id":"sh/hgn29gr2","slide":4,"bbox":[0,80,1280,0]}
+{"kind":"shape","id":"sh/l87ed8ba","slide":4,"bbox":[0,160,1280,0]}
+{"kind":"shape","id":"sh/sneloj2t","slide":4,"bbox":[0,240,1280,0]}
+{"kind":"shape","id":"sh/32lszqtc","slide":4,"bbox":[0,320,1280,0]}
+{"kind":"shape","id":"sh/ahoza1gv","slide":4,"bbox":[0,400,1280,0]}
+{"kind":"shape","id":"sh/lkjm1cfa","slide":4,"bbox":[0,480,1280,0]}
+{"kind":"shape","id":"sh/szqtcj6t","slide":4,"bbox":[0,560,1280,0]}
+{"kind":"shape","id":"sh/3ex0nuxc","slide":4,"bbox":[0,640,1280,0]}
+{"kind":"shape","id":"sh/at47y1kr","slide":4,"bbox":[0,720,1280,0]}
+{"kind":"shape","id":"sh/loj2t83i","slide":4,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/w3m94fu1","slide":4,"bbox":[784,76,370,230]}
+{"kind":"textbox","id":"sh/61032lsz","slide":4,"text":"03 / FEATURE PIPELINE","textPreview":"03 / FEATURE PIPELINE","textChars":21,"textLines":1,"bbox":[64,42,610,22]}
+{"kind":"textbox","id":"sh/vmtwra5g","slide":4,"text":"数据与特征工程：从原始流量到模型输入","textPreview":"数据与特征工程：从原始流量到模型输入","textChars":18,"textLines":1,"bbox":[64,66,930,52]}
+{"kind":"shape","id":"sh/o7qpg3ex","slide":4,"bbox":[992,52,224,32]}
+{"kind":"textbox","id":"sh/dsji5sne","slide":4,"text":"ML TRAFFIC SECURITY","textPreview":"ML TRAFFIC SECURITY","textChars":19,"textLines":1,"bbox":[1000,57,208,24]}
+{"kind":"shape","id":"sh/6dcbulwv","slide":4,"bbox":[64,674,1152,0]}
+{"kind":"textbox","id":"sh/vy90je9c","slide":4,"text":"来源：backend/app/services/feature_pipeline.py、ml/reports/model_metrics.json","textPreview":"来源：backend/app/services/feature_pipeline.py、ml/reports/model_metrics.json","textChars":73,"textLines":1,"bbox":[64,684,840,18]}
+{"kind":"textbox","id":"sh/oj2t83it","slide":4,"text":"04 / 12","textPreview":"04 / 12","textChars":7,"textLines":1,"bbox":[1118,681,98,24]}
+{"kind":"shape","id":"sh/d4vmtwra","slide":4,"bbox":[64,156,196,112]}
+{"kind":"textbox","id":"sh/6hcrmhk3","slide":4,"text":"原始/样本数据","textPreview":"原始/样本数据","textChars":7,"textLines":1,"bbox":[80,178,164,24]}
+{"kind":"textbox","id":"sh/z25kb6xk","slide":4,"text":"流量记录、实验样本","textPreview":"流量记录、实验样本","textChars":9,"textLines":1,"bbox":[80,216,164,34]}
+{"kind":"shape","id":"sh/j6tovaho","slide":4,"bbox":[260,212,34,0]}
+{"kind":"shape","id":"sh/ulwval87","slide":4,"bbox":[294,156,196,112]}
+{"kind":"textbox","id":"sh/1cfa9w3m","slide":4,"text":"窗口化/清洗","textPreview":"窗口化/清洗","textChars":6,"textLines":1,"bbox":[310,178,164,24]}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":4,"text":"按流或窗口形成观测","textPreview":"按流或窗口形成观测","textChars":9,"textLines":1,"bbox":[310,216,164,34]}
+{"kind":"shape","id":"sh/ji5snelo","slide":4,"bbox":[490,212,34,0]}
+{"kind":"shape","id":"sh/uxc3ylc7","slide":4,"bbox":[524,156,196,112]}
+{"kind":"textbox","id":"sh/1kre1w7m","slide":4,"text":"基础统计","textPreview":"基础统计","textChars":4,"textLines":1,"bbox":[540,178,164,24]}
+{"kind":"textbox","id":"sh/c3ylc7u5","slide":4,"text":"端口、包长、速率、持续时间","textPreview":"端口、包长、速率、持续时间","textChars":13,"textLines":1,"bbox":[540,216,164,34]}
+{"kind":"shape","id":"sh/jqh0fepk","slide":4,"bbox":[720,212,34,0]}
+{"kind":"shape","id":"sh/q5o7qpg3","slide":4,"bbox":[754,156,196,112]}
+{"kind":"textbox","id":"sh/0fepkzup","slide":4,"text":"衍生特征","textPreview":"衍生特征","textChars":4,"textLines":1,"bbox":[770,178,164,24]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":4,"text":"范围、比例、端口差、吞吐归一","textPreview":"范围、比例、端口差、吞吐归一","textChars":14,"textLines":1,"bbox":[770,216,164,34]}
+{"kind":"shape","id":"sh/i9s36hcr","slide":4,"bbox":[950,212,34,0]}
+{"kind":"shape","id":"sh/bulwval8","slide":4,"bbox":[984,156,196,112]}
+{"kind":"textbox","id":"sh/032lszqt","slide":4,"text":"模型输入","textPreview":"模型输入","textChars":4,"textLines":1,"bbox":[1000,178,164,24]}
+{"kind":"textbox","id":"sh/tovahoza","slide":4,"text":"15 个特征列","textPreview":"15 个特征列","textChars":7,"textLines":1,"bbox":[1000,216,164,34]}
+{"kind":"shape","id":"sh/ixczed8v","slide":4,"bbox":[64,330,352,92]}
+{"kind":"shape","id":"sh/bi9s36hc","slide":4,"bbox":[82,352,34,34]}
+{"kind":"textbox","id":"sh/0rqd4vmt","slide":4,"text":"端口维度","textPreview":"端口维度","textChars":4,"textLines":1,"bbox":[130,348,250,24]}
+{"kind":"textbox","id":"sh/tcj6tova","slide":4,"text":"src_port、dst_port、port_gap\n系统端口标记","textPreview":"src_port、dst_port、port_gap | 系统端口标记","textChars":33,"textLines":2,"bbox":[130,378,260,34]}
+{"kind":"shape","id":"sh/x0nuxc3y","slide":4,"bbox":[448,330,352,92]}
+{"kind":"shape","id":"sh/4fu18jqh","slide":4,"bbox":[466,352,34,34]}
+{"kind":"textbox","id":"sh/fu18jqh0","slide":4,"text":"包长统计","textPreview":"包长统计","textChars":4,"textLines":1,"bbox":[514,348,250,24]}
+{"kind":"textbox","id":"sh/m94fu18j","slide":4,"text":"packet_len_mean / max / min / std\npacket_len_range","textPreview":"packet_len_mean / max / min / std | packet_len_range","textChars":50,"textLines":2,"bbox":[514,378,260,34]}
+{"kind":"shape","id":"sh/xobm58z2","slide":4,"bbox":[832,330,352,92]}
+{"kind":"shape","id":"sh/83itgfml","slide":4,"bbox":[850,352,34,34]}
+{"kind":"textbox","id":"sh/fil0rqd4","slide":4,"text":"速率维度","textPreview":"速率维度","textChars":4,"textLines":1,"bbox":[898,348,250,24]}
+{"kind":"textbox","id":"sh/qxs72x4n","slide":4,"text":"packets_per_sec、bytes_per_sec\nbytes_per_packet","textPreview":"packets_per_sec、bytes_per_sec | bytes_per_packet","textChars":46,"textLines":2,"bbox":[898,378,260,34]}
+{"kind":"shape","id":"sh/xkf6dcbu","slide":4,"bbox":[64,452,352,92]}
+{"kind":"shape","id":"sh/4zidonyd","slide":4,"bbox":[82,474,34,34]}
+{"kind":"textbox","id":"sh/itgfmlkj","slide":4,"text":"时间维度","textPreview":"时间维度","textChars":4,"textLines":1,"bbox":[130,470,250,24]}
+{"kind":"textbox","id":"sh/7ed8bat4","slide":4,"text":"flow_duration\nthroughput_per_duration","textPreview":"flow_duration | throughput_per_duration","textChars":37,"textLines":2,"bbox":[130,500,260,34]}
+{"kind":"shape","id":"sh/0z61032l","slide":4,"bbox":[448,452,352,92]}
+{"kind":"shape","id":"sh/pkzupwb2","slide":4,"bbox":[466,474,34,34]}
+{"kind":"textbox","id":"sh/ih4byhgn","slide":4,"text":"标签体系","textPreview":"标签体系","textChars":4,"textLines":1,"bbox":[514,470,250,24]}
+{"kind":"textbox","id":"sh/72x4nap4","slide":4,"text":"benign、arp_spoof、ddos、trojan\n四类监督学习标签","textPreview":"benign、arp_spoof、ddos、trojan | 四类监督学习标签","textChars":37,"textLines":2,"bbox":[514,500,260,34]}
+{"kind":"shape","id":"sh/0nuxc3yl","slide":4,"bbox":[832,452,352,92]}
+{"kind":"shape","id":"sh/p8nqxs72","slide":4,"bbox":[850,474,34,34]}
+{"kind":"textbox","id":"sh/ed8v6psf","slide":4,"text":"输出表","textPreview":"输出表","textChars":3,"textLines":1,"bbox":[898,470,250,24]}
+{"kind":"textbox","id":"sh/7y1kre1w","slide":4,"text":"processed feature table\n训练与推理使用同列顺序","textPreview":"processed feature table | 训练与推理使用同列顺序","textChars":35,"textLines":2,"bbox":[898,500,260,34]}
+{"kind":"shape","id":"sh/ra5gbq1o","slide":4,"bbox":[64,592,1152,48]}
+{"kind":"textbox","id":"sh/2p8nqxs7","slide":4,"text":"识别依据是观测字段与派生统计，再由模型输出分类和置信度；系统不会在前端凭空编造“恶意流量”。","textPreview":"识别依据是观测字段与派生统计，再由模型输出分类和置信度；系统不会在前端凭空编造“恶意流量”。","textChars":46,"textLines":1,"bbox":[86,606,1060,24]}
+{"kind":"notes","id":"nt/l1090l","slide":4,"text":"特征工程页。说明检测依据来自流量观测字段和衍生统计，而不是前端伪造结果。"}
+{"kind":"slide","id":"sl/dmuw5r","slide":5,"title":"04 / MODEL EVALUATION","textShapes":47}
+{"kind":"shape","id":"sh/i9s36hcr","slide":5,"bbox":[0,0,0,720]}
+{"kind":"shape","id":"sh/p0bi9s36","slide":5,"bbox":[80,0,0,720]}
+{"kind":"shape","id":"sh/0fepkzup","slide":5,"bbox":[160,0,0,720]}
+{"kind":"shape","id":"sh/bi9s36hc","slide":5,"bbox":[240,0,0,720]}
+{"kind":"shape","id":"sh/ixczed8v","slide":5,"bbox":[320,0,0,720]}
+{"kind":"shape","id":"sh/tovahoza","slide":5,"bbox":[400,0,0,720]}
+{"kind":"shape","id":"sh/032lszqt","slide":5,"bbox":[480,0,0,720]}
+{"kind":"shape","id":"sh/b6xkf6dc","slide":5,"bbox":[560,0,0,720]}
+{"kind":"shape","id":"sh/il0rqd4v","slide":5,"bbox":[640,0,0,720]}
+{"kind":"shape","id":"sh/ovahoza1","slide":5,"bbox":[720,0,0,720]}
+{"kind":"shape","id":"sh/dg7adsji","slide":5,"bbox":[800,0,0,720]}
+{"kind":"shape","id":"sh/6tovahoz","slide":5,"bbox":[880,0,0,720]}
+{"kind":"shape","id":"sh/vahoza1g","slide":5,"bbox":[960,0,0,720]}
+{"kind":"shape","id":"sh/onyd0z61","slide":5,"bbox":[1040,0,0,720]}
+{"kind":"shape","id":"sh/d8v6psfi","slide":5,"bbox":[1120,0,0,720]}
+{"kind":"shape","id":"sh/6hcrmhk3","slide":5,"bbox":[1200,0,0,720]}
+{"kind":"shape","id":"sh/z25kb6xk","slide":5,"bbox":[1280,0,0,720]}
+{"kind":"shape","id":"sh/oj2t83it","slide":5,"bbox":[0,0,1280,0]}
+{"kind":"shape","id":"sh/d4vmtwra","slide":5,"bbox":[0,80,1280,0]}
+{"kind":"shape","id":"sh/hwfyxobm","slide":5,"bbox":[0,160,1280,0]}
+{"kind":"shape","id":"sh/obm58z25","slide":5,"bbox":[0,240,1280,0]}
+{"kind":"shape","id":"sh/zqtcj6to","slide":5,"bbox":[0,320,1280,0]}
+{"kind":"shape","id":"sh/65wjudg7","slide":5,"bbox":[0,400,1280,0]}
+{"kind":"shape","id":"sh/hk3q5o7q","slide":5,"bbox":[0,480,1280,0]}
+{"kind":"shape","id":"sh/oza1gvy9","slide":5,"bbox":[0,560,1280,0]}
+{"kind":"shape","id":"sh/zed8v6ps","slide":5,"bbox":[0,640,1280,0]}
+{"kind":"shape","id":"sh/6xkf6dcb","slide":5,"bbox":[0,720,1280,0]}
+{"kind":"shape","id":"sh/hcrmhk3q","slide":5,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/orytsvu9","slide":5,"bbox":[784,76,370,230]}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":5,"text":"04 / MODEL EVALUATION","textPreview":"04 / MODEL EVALUATION","textChars":21,"textLines":1,"bbox":[64,42,610,22]}
+{"kind":"textbox","id":"sh/bulwval8","slide":5,"text":"模型能力：双模型训练与样本级评估","textPreview":"模型能力：双模型训练与样本级评估","textChars":16,"textLines":1,"bbox":[64,66,930,52]}
+{"kind":"shape","id":"sh/0fepkzup","slide":5,"bbox":[992,52,224,32]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":5,"text":"ML TRAFFIC SECURITY","textPreview":"ML TRAFFIC SECURITY","textChars":19,"textLines":1,"bbox":[1000,57,208,24]}
+{"kind":"shape","id":"sh/ixczed8v","slide":5,"bbox":[64,674,1152,0]}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":5,"text":"来源：ml/reports/model_metrics.json、ml/reports/random_forest_feature_importance.csv、prediction_service.py","textPreview":"来源：ml/reports/model_metrics.json、ml/reports/random_forest_feature_importance.csv、prediction_service.py","textChars":102,"textLines":1,"bbox":[64,684,840,18]}
+{"kind":"textbox","id":"sh/032lszqt","slide":5,"text":"05 / 12","textPreview":"05 / 12","textChars":7,"textLines":1,"bbox":[1118,681,98,24]}
+{"kind":"shape","id":"sh/tovahoza","slide":5,"bbox":[64,142,250,112]}
+{"kind":"textbox","id":"sh/il0rqd4v","slide":5,"text":"32","textPreview":"32","textChars":2,"textLines":1,"bbox":[86,160,110,52]}
+{"kind":"textbox","id":"sh/b6xkf6dc","slide":5,"text":"样本行数","textPreview":"样本行数","textChars":4,"textLines":1,"bbox":[190,168,96,22]}
+{"kind":"textbox","id":"sh/ra5gbq1o","slide":5,"text":"当前仓库轻量样本集","textPreview":"当前仓库轻量样本集","textChars":9,"textLines":1,"bbox":[190,196,98,38]}
+{"kind":"shape","id":"sh/2p8nqxs7","slide":5,"bbox":[340,142,250,112]}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":5,"text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[362,160,110,52]}
+{"kind":"textbox","id":"sh/gvy90je9","slide":5,"text":"模型特征","textPreview":"模型特征","textChars":4,"textLines":1,"bbox":[466,168,96,22]}
+{"kind":"textbox","id":"sh/r2p8nqxs","slide":5,"text":"训练与推理保持同列顺序","textPreview":"训练与推理保持同列顺序","textChars":11,"textLines":1,"bbox":[466,196,98,38]}
+{"kind":"shape","id":"sh/2hwfyxob","slide":5,"bbox":[616,142,250,112]}
+{"kind":"textbox","id":"sh/94fu18jq","slide":5,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[638,160,110,52]}
+{"kind":"textbox","id":"sh/kjm1cfa9","slide":5,"text":"可选模型","textPreview":"可选模型","textChars":4,"textLines":1,"bbox":[742,168,96,22]}
+{"kind":"textbox","id":"sh/rqd4vmtw","slide":5,"text":"Decision Tree / Random Forest","textPreview":"Decision Tree / Random Forest","textChars":29,"textLines":1,"bbox":[742,196,98,38]}
+{"kind":"shape","id":"sh/25kb6xkf","slide":5,"bbox":[892,142,250,112]}
+{"kind":"textbox","id":"sh/c7u54zid","slide":5,"text":"1.00","textPreview":"1.00","textChars":4,"textLines":1,"bbox":[914,160,110,52]}
+{"kind":"textbox","id":"sh/1orytsvu","slide":5,"text":"样本 F1","textPreview":"样本 F1","textChars":5,"textLines":1,"bbox":[1018,168,96,22]}
+{"kind":"textbox","id":"sh/u18jqh0f","slide":5,"text":"测试切分上的宏平均 F1","textPreview":"测试切分上的宏平均 F1","textChars":12,"textLines":1,"bbox":[1018,196,98,38]}
+{"kind":"shape","id":"sh/jm1cfa9w","slide":5,"bbox":[64,294,520,262]}
+{"kind":"textbox","id":"sh/cfa9w3m9","slide":5,"text":"随机森林 Top 特征重要性","textPreview":"随机森林 Top 特征重要性","textChars":14,"textLines":1,"bbox":[90,314,320,26]}
+{"kind":"shape","id":"sh/u9knih4b","slide":5,"bbox":[626,294,276,262]}
+{"kind":"textbox","id":"sh/judg7ads","slide":5,"text":"样本混淆矩阵","textPreview":"样本混淆矩阵","textChars":6,"textLines":1,"bbox":[652,314,190,26]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":5,"text":"benign","textPreview":"benign","textChars":6,"textLines":1,"bbox":[662,356,48,18]}
+{"kind":"textbox","id":"sh/54zidony","slide":5,"text":"benign","textPreview":"benign","textChars":6,"textLines":1,"bbox":[634,386,42,18]}
+{"kind":"textbox","id":"sh/9s36hcrm","slide":5,"text":"arp","textPreview":"arp","textChars":3,"textLines":1,"bbox":[714,356,48,18]}
+{"kind":"textbox","id":"sh/g7adsji5","slide":5,"text":"arp","textPreview":"arp","textChars":3,"textLines":1,"bbox":[634,424,42,18]}
+{"kind":"textbox","id":"sh/rmhk3q5o","slide":5,"text":"ddos","textPreview":"ddos","textChars":4,"textLines":1,"bbox":[766,356,48,18]}
+{"kind":"textbox","id":"sh/y1kre1w7","slide":5,"text":"ddos","textPreview":"ddos","textChars":4,"textLines":1,"bbox":[634,462,42,18]}
+{"kind":"textbox","id":"sh/90je9cvi","slide":5,"text":"trojan","textPreview":"trojan","textChars":6,"textLines":1,"bbox":[818,356,48,18]}
+{"kind":"textbox","id":"sh/gfmlkjm1","slide":5,"text":"trojan","textPreview":"trojan","textChars":6,"textLines":1,"bbox":[634,500,42,18]}
+{"kind":"shape","id":"sh/rytsvu9k","slide":5,"bbox":[682,382,36,30]}
+{"kind":"textbox","id":"sh/yd0z6103","slide":5,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[682,388,36,18]}
+{"kind":"shape","id":"sh/9cvixcze","slide":5,"bbox":[728,382,36,30]}
+{"kind":"textbox","id":"sh/gr2p8nqx","slide":5,"text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[728,388,36,18]}
+{"kind":"shape","id":"sh/a5gbq1or","slide":5,"bbox":[774,382,36,30]}
+{"kind":"textbox","id":"sh/3m94fu18","slide":5,"text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[774,388,36,18]}
+{"kind":"shape","id":"sh/s72x4nap","slide":5,"bbox":[820,382,36,30]}
+{"kind":"textbox","id":"sh/lszqtcj6","slide":5,"text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[820,388,36,18]}
+{"kind":"shape","id":"sh/adsji5sn","slide":5,"bbox":[682,420,36,30]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":5,"text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[682,426,36,18]}
+{"kind":"shape","id":"sh/sji5snel","slide":5,"bbox":[728,420,36,30]}
+{"kind":"textbox","id":"sh/h4byhgn2","slide":5,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[728,426,36,18]}
+{"kind":"shape","id":"sh/ap4r65wj","slide":5,"bbox":[774,420,36,30]}
+{"kind":"textbox","id":"sh/za1gvy90","slide":5,"text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[774,426,36,18]}
+{"kind":"shape","id":"sh/j6tovaho","slide":5,"bbox":[820,420,36,30]}
+{"kind":"textbox","id":"sh/ulwval87","slide":5,"text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[820,426,36,18]}
+{"kind":"shape","id":"sh/1cfa9w3m","slide":5,"bbox":[682,458,36,30]}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":5,"text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[682,464,36,18]}
+{"kind":"shape","id":"sh/ji5snelo","slide":5,"bbox":[728,458,36,30]}
+{"kind":"textbox","id":"sh/uxc3ylc7","slide":5,"text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[728,464,36,18]}
+{"kind":"shape","id":"sh/1kre1w7m","slide":5,"bbox":[774,458,36,30]}
+{"kind":"textbox","id":"sh/c3ylc7u5","slide":5,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[774,464,36,18]}
+{"kind":"shape","id":"sh/jqh0fepk","slide":5,"bbox":[820,458,36,30]}
+{"kind":"textbox","id":"sh/q5o7qpg3","slide":5,"text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[820,464,36,18]}
+{"kind":"shape","id":"sh/0fepkzup","slide":5,"bbox":[682,496,36,30]}
+{"kind":"textbox","id":"sh/p0bi9s36","slide":5,"text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[682,502,36,18]}
+{"kind":"shape","id":"sh/i9s36hcr","slide":5,"bbox":[728,496,36,30]}
+{"kind":"textbox","id":"sh/bulwval8","slide":5,"text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[728,502,36,18]}
+{"kind":"shape","id":"sh/032lszqt","slide":5,"bbox":[774,496,36,30]}
+{"kind":"textbox","id":"sh/tovahoza","slide":5,"text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[774,502,36,18]}
+{"kind":"shape","id":"sh/ixczed8v","slide":5,"bbox":[820,496,36,30]}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":5,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[820,502,36,18]}
+{"kind":"textbox","id":"sh/0rqd4vmt","slide":5,"text":"四类标签在测试切分中各 2 条命中。","textPreview":"四类标签在测试切分中各 2 条命中。","textChars":18,"textLines":1,"bbox":[652,526,206,20]}
+{"kind":"shape","id":"sh/tcj6tova","slide":5,"bbox":[944,294,272,262]}
+{"kind":"textbox","id":"sh/2x4nap4r","slide":5,"text":"严谨说明","textPreview":"严谨说明","textChars":4,"textLines":1,"bbox":[970,318,160,26]}
+{"kind":"textbox","id":"sh/vixczed8","slide":5,"text":"当前指标来自仓库内轻量样本与测试切分，用于验证训练、推理、指标展示链路完整性。若用于生产，应扩大真实数据集、加入时间切分验证与线上误报/漏报评估。","textPreview":"当前指标来自仓库内轻量样本与测试切分，用于验证训练、推理、指标展示链路完整性。若用于生产，应扩大真实数据集、加入时间切分验证与线上误报/漏报评估。","textChars":73,"textLines":1,"bbox":[970,360,202,118]}
+{"kind":"shape","id":"sh/k3q5o7qp","slide":5,"bbox":[970,502,202,34]}
+{"kind":"textbox","id":"sh/donyd0z6","slide":5,"text":"功能验证 ≠ 生产泛化证明","textPreview":"功能验证 ≠ 生产泛化证明","textChars":13,"textLines":1,"bbox":[978,507,186,26]}
+{"kind":"chart","id":"ch/hoza1gvy","slide":5,"name":"","chartType":"bar","bbox":[96,354,432,168]}
+{"kind":"notes","id":"nt/dmuw5r","slide":5,"text":"模型能力页。展示样本规模、特征数、双模型、当前样本测试指标和随机森林特征重要性，并明确指标局限。"}
+{"kind":"slide","id":"sl/ma6uvx","slide":6,"title":"05 / TARGET MONITORING","textShapes":34}
+{"kind":"shape","id":"sh/xc3ylc7u","slide":6,"bbox":[0,0,0,720]}
+{"kind":"shape","id":"sh/mlkjm1cf","slide":6,"bbox":[80,0,0,720]}
+{"kind":"shape","id":"sh/f6dcbulw","slide":6,"bbox":[160,0,0,720]}
+{"kind":"shape","id":"sh/4zidonyd","slide":6,"bbox":[240,0,0,720]}
+{"kind":"shape","id":"sh/xkf6dcbu","slide":6,"bbox":[320,0,0,720]}
+{"kind":"shape","id":"sh/mtwra5gb","slide":6,"bbox":[400,0,0,720]}
+{"kind":"shape","id":"sh/fepkzupw","slide":6,"bbox":[480,0,0,720]}
+{"kind":"shape","id":"sh/83itgfml","slide":6,"bbox":[560,0,0,720]}
+{"kind":"shape","id":"sh/xobm58z2","slide":6,"bbox":[640,0,0,720]}
+{"kind":"shape","id":"sh/dcbulwva","slide":6,"bbox":[720,0,0,720]}
+{"kind":"shape","id":"sh/kre1w7mp","slide":6,"bbox":[800,0,0,720]}
+{"kind":"shape","id":"sh/val87ed8","slide":6,"bbox":[880,0,0,720]}
+{"kind":"shape","id":"sh/6psfil0r","slide":6,"bbox":[960,0,0,720]}
+{"kind":"shape","id":"sh/donyd0z6","slide":6,"bbox":[1040,0,0,720]}
+{"kind":"shape","id":"sh/k3q5o7qp","slide":6,"bbox":[1120,0,0,720]}
+{"kind":"shape","id":"sh/vixczed8","slide":6,"bbox":[1200,0,0,720]}
+{"kind":"shape","id":"sh/2x4nap4r","slide":6,"bbox":[1280,0,0,720]}
+{"kind":"shape","id":"sh/d0z61032","slide":6,"bbox":[0,0,1280,0]}
+{"kind":"shape","id":"sh/kf6dcbul","slide":6,"bbox":[0,80,1280,0]}
+{"kind":"shape","id":"sh/0bi9s36h","slide":6,"bbox":[0,160,1280,0]}
+{"kind":"shape","id":"sh/pwb2hwfy","slide":6,"bbox":[0,240,1280,0]}
+{"kind":"shape","id":"sh/i5sneloj","slide":6,"bbox":[0,320,1280,0]}
+{"kind":"shape","id":"sh/7qpg3ex0","slide":6,"bbox":[0,400,1280,0]}
+{"kind":"shape","id":"sh/wjudg7ad","slide":6,"bbox":[0,480,1280,0]}
+{"kind":"shape","id":"sh/p4r65wju","slide":6,"bbox":[0,560,1280,0]}
+{"kind":"shape","id":"sh/ed8v6psf","slide":6,"bbox":[0,640,1280,0]}
+{"kind":"shape","id":"sh/7y1kre1w","slide":6,"bbox":[0,720,1280,0]}
+{"kind":"shape","id":"sh/0nuxc3yl","slide":6,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/p8nqxs72","slide":6,"bbox":[784,76,370,230]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":6,"text":"05 / TARGET MONITORING","textPreview":"05 / TARGET MONITORING","textChars":22,"textLines":1,"bbox":[64,42,610,22]}
+{"kind":"textbox","id":"sh/mtwra5gb","slide":6,"text":"实时目标监测：每个识别对象独立计数","textPreview":"实时目标监测：每个识别对象独立计数","textChars":17,"textLines":1,"bbox":[64,66,930,52]}
+{"kind":"shape","id":"sh/xkf6dcbu","slide":6,"bbox":[992,52,224,32]}
+{"kind":"textbox","id":"sh/4zidonyd","slide":6,"text":"ML TRAFFIC SECURITY","textPreview":"ML TRAFFIC SECURITY","textChars":19,"textLines":1,"bbox":[1000,57,208,24]}
+{"kind":"shape","id":"sh/f6dcbulw","slide":6,"bbox":[64,674,1152,0]}
+{"kind":"textbox","id":"sh/mlkjm1cf","slide":6,"text":"来源：SecurityScreenPage.tsx、monitor_service.py、database.py","textPreview":"来源：SecurityScreenPage.tsx、monitor_service.py、database.py","textChars":56,"textLines":1,"bbox":[64,684,840,18]}
+{"kind":"textbox","id":"sh/xc3ylc7u","slide":6,"text":"06 / 12","textPreview":"06 / 12","textChars":7,"textLines":1,"bbox":[1118,681,98,24]}
+{"kind":"shape","id":"sh/4r65wjud","slide":6,"bbox":[64,144,454,430]}
+{"kind":"textbox","id":"sh/fu18jqh0","slide":6,"text":"前端大屏目标选择","textPreview":"前端大屏目标选择","textChars":8,"textLines":1,"bbox":[92,168,260,28]}
+{"kind":"shape","id":"sh/m94fu18j","slide":6,"bbox":[96,220,358,72]}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":6,"text":"target_id = 1","textPreview":"target_id = 1","textChars":13,"textLines":1,"bbox":[116,234,116,18]}
+{"kind":"textbox","id":"sh/vy90je9c","slide":6,"text":"localhost:5173","textPreview":"localhost:5173","textChars":14,"textLines":1,"bbox":[116,258,160,22]}
+{"kind":"textbox","id":"sh/oj2t83it","slide":6,"text":"24","textPreview":"24","textChars":2,"textLines":1,"bbox":[360,228,58,38]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":6,"text":"已有事件","textPreview":"已有事件","textChars":4,"textLines":1,"bbox":[284,268,132,18]}
+{"kind":"shape","id":"sh/61032lsz","slide":6,"bbox":[96,318,358,72]}
+{"kind":"textbox","id":"sh/vmtwra5g","slide":6,"text":"target_id = 2","textPreview":"target_id = 2","textChars":13,"textLines":1,"bbox":[116,332,116,18]}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":6,"text":"localhost:5174","textPreview":"localhost:5174","textChars":14,"textLines":1,"bbox":[116,356,160,22]}
+{"kind":"textbox","id":"sh/dsji5sne","slide":6,"text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[360,326,58,38]}
+{"kind":"textbox","id":"sh/6tovahoz","slide":6,"text":"新建后从 0 开始","textPreview":"新建后从 0 开始","textChars":9,"textLines":1,"bbox":[284,366,132,18]}
+{"kind":"shape","id":"sh/vahoza1g","slide":6,"bbox":[96,416,358,72]}
+{"kind":"textbox","id":"sh/lkjm1cfa","slide":6,"text":"target_id = 3","textPreview":"target_id = 3","textChars":13,"textLines":1,"bbox":[116,430,116,18]}
+{"kind":"textbox","id":"sh/szqtcj6t","slide":6,"text":"example.com:80","textPreview":"example.com:80","textChars":14,"textLines":1,"bbox":[116,454,160,22]}
+{"kind":"textbox","id":"sh/3ex0nuxc","slide":6,"text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[360,424,58,38]}
+{"kind":"textbox","id":"sh/at47y1kr","slide":6,"text":"可扩展站点","textPreview":"可扩展站点","textChars":5,"textLines":1,"bbox":[284,464,132,18]}
+{"kind":"shape","id":"sh/l87ed8ba","slide":6,"bbox":[108,522,174,32]}
+{"kind":"textbox","id":"sh/sneloj2t","slide":6,"text":"新增 localhost 端口","textPreview":"新增 localhost 端口","textChars":15,"textLines":1,"bbox":[116,527,158,24]}
+{"kind":"shape","id":"sh/32lszqtc","slide":6,"bbox":[296,522,174,32]}
+{"kind":"textbox","id":"sh/ahoza1gv","slide":6,"text":"目标维度切换统计","textPreview":"目标维度切换统计","textChars":8,"textLines":1,"bbox":[304,527,158,24]}
+{"kind":"shape","id":"sh/lwval87e","slide":6,"bbox":[560,144,656,430]}
+{"kind":"textbox","id":"sh/wb2hwfyx","slide":6,"text":"target_id 隔离逻辑","textPreview":"target_id 隔离逻辑","textChars":14,"textLines":1,"bbox":[590,168,260,28]}
+{"kind":"shape","id":"sh/sji5snel","slide":6,"bbox":[600,222,166,116]}
+{"kind":"shape","id":"sh/h4byhgn2","slide":6,"bbox":[616,240,30,30]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":6,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[616,244,30,24]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":6,"text":"site_targets","textPreview":"site_targets","textChars":12,"textLines":1,"bbox":[658,239,90,30]}
+{"kind":"textbox","id":"sh/s72x4nap","slide":6,"text":"登记目标\nhost / scheme / port","textPreview":"登记目标 | host / scheme / port","textChars":25,"textLines":2,"bbox":[620,280,126,46]}
+{"kind":"shape","id":"sh/lszqtcj6","slide":6,"bbox":[814,222,166,116]}
+{"kind":"shape","id":"sh/a5gbq1or","slide":6,"bbox":[830,240,30,30]}
+{"kind":"textbox","id":"sh/3m94fu18","slide":6,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[830,244,30,24]}
+{"kind":"textbox","id":"sh/s36hcrmh","slide":6,"text":"traffic_events","textPreview":"traffic_events","textChars":14,"textLines":1,"bbox":[872,239,90,30]}
+{"kind":"textbox","id":"sh/hoza1gvy","slide":6,"text":"每条事件写入\ntarget_id","textPreview":"每条事件写入 | target_id","textChars":16,"textLines":2,"bbox":[834,280,126,46]}
+{"kind":"shape","id":"sh/r65wjudg","slide":6,"bbox":[1028,222,150,116]}
+{"kind":"shape","id":"sh/ylc7u54z","slide":6,"bbox":[1044,240,30,30]}
+{"kind":"textbox","id":"sh/9cvixcze","slide":6,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[1044,244,30,24]}
+{"kind":"textbox","id":"sh/gr2p8nqx","slide":6,"text":"summary","textPreview":"summary","textChars":7,"textLines":1,"bbox":[1086,239,74,30]}
+{"kind":"textbox","id":"sh/nih4byhg","slide":6,"text":"按 target_id\n过滤聚合","textPreview":"按 target_id | 过滤聚合","textChars":16,"textLines":2,"bbox":[1048,280,110,46]}
+{"kind":"shape","id":"sh/yxobm58z","slide":6,"bbox":[766,280,48,0]}
+{"kind":"shape","id":"sh/5o7qpg3e","slide":6,"bbox":[980,280,48,0]}
+{"kind":"textbox","id":"sh/g3ex0nux","slide":6,"text":"大屏展示口径","textPreview":"大屏展示口径","textChars":6,"textLines":1,"bbox":[602,390,180,24]}
+{"kind":"shape","id":"sh/rmhk3q5o","slide":6,"bbox":[604,430,10,10]}
+{"kind":"textbox","id":"sh/y1kre1w7","slide":6,"text":"total_events、malicious_events、benign_events 均来自当前 target_id。","textPreview":"total_events、malicious_events、benign_events 均来自当前 target_id。","textChars":60,"textLines":1,"bbox":[626,422,520,28]}
+{"kind":"shape","id":"sh/ap4r65wj","slide":6,"bbox":[604,468,10,10]}
+{"kind":"textbox","id":"sh/za1gvy90","slide":6,"text":"attack_counts、top_sources、latest_events 都按识别对象过滤。","textPreview":"attack_counts、top_sources、latest_events 都按识别对象过滤。","textChars":49,"textLines":1,"bbox":[626,460,520,28]}
+{"kind":"shape","id":"sh/svu9knih","slide":6,"bbox":[604,506,10,10]}
+{"kind":"textbox","id":"sh/hgn29gr2","slide":6,"text":"新建目标没有历史事件，因此前端统计天然从 0 开始。","textPreview":"新建目标没有历史事件，因此前端统计天然从 0 开始。","textChars":26,"textLines":1,"bbox":[626,498,520,28]}
+{"kind":"notes","id":"nt/ma6uvx","slide":6,"text":"目标监测页。说明前端新增 localhost 端口后会创建独立目标，并通过 target_id 过滤统计与事件，因此新对象从零开始。"}
+{"kind":"slide","id":"sl/dwiwrs","slide":7,"title":"06 / DETECTION FLOW","textShapes":37}
+{"kind":"shape","id":"sh/4zidonyd","slide":7,"bbox":[0,0,0,720]}
+{"kind":"shape","id":"sh/fepkzupw","slide":7,"bbox":[80,0,0,720]}
+{"kind":"shape","id":"sh/mtwra5gb","slide":7,"bbox":[160,0,0,720]}
+{"kind":"shape","id":"sh/xc3ylc7u","slide":7,"bbox":[240,0,0,720]}
+{"kind":"shape","id":"sh/4r65wjud","slide":7,"bbox":[320,0,0,720]}
+{"kind":"shape","id":"sh/f6dcbulw","slide":7,"bbox":[400,0,0,720]}
+{"kind":"shape","id":"sh/mlkjm1cf","slide":7,"bbox":[480,0,0,720]}
+{"kind":"shape","id":"sh/x0nuxc3y","slide":7,"bbox":[560,0,0,720]}
+{"kind":"shape","id":"sh/4fu18jqh","slide":7,"bbox":[640,0,0,720]}
+{"kind":"shape","id":"sh/6dcbulwv","slide":7,"bbox":[720,0,0,720]}
+{"kind":"shape","id":"sh/vy90je9c","slide":7,"bbox":[800,0,0,720]}
+{"kind":"shape","id":"sh/oj2t83it","slide":7,"bbox":[880,0,0,720]}
+{"kind":"shape","id":"sh/d4vmtwra","slide":7,"bbox":[960,0,0,720]}
+{"kind":"shape","id":"sh/61032lsz","slide":7,"bbox":[1040,0,0,720]}
+{"kind":"shape","id":"sh/vmtwra5g","slide":7,"bbox":[1120,0,0,720]}
+{"kind":"shape","id":"sh/o7qpg3ex","slide":7,"bbox":[1200,0,0,720]}
+{"kind":"shape","id":"sh/dsji5sne","slide":7,"bbox":[1280,0,0,720]}
+{"kind":"shape","id":"sh/6tovahoz","slide":7,"bbox":[0,0,1280,0]}
+{"kind":"shape","id":"sh/vahoza1g","slide":7,"bbox":[0,80,1280,0]}
+{"kind":"shape","id":"sh/r65wjudg","slide":7,"bbox":[0,160,1280,0]}
+{"kind":"shape","id":"sh/ylc7u54z","slide":7,"bbox":[0,240,1280,0]}
+{"kind":"shape","id":"sh/9cvixcze","slide":7,"bbox":[0,320,1280,0]}
+{"kind":"shape","id":"sh/gr2p8nqx","slide":7,"bbox":[0,400,1280,0]}
+{"kind":"shape","id":"sh/nih4byhg","slide":7,"bbox":[0,480,1280,0]}
+{"kind":"shape","id":"sh/yxobm58z","slide":7,"bbox":[0,560,1280,0]}
+{"kind":"shape","id":"sh/5o7qpg3e","slide":7,"bbox":[0,640,1280,0]}
+{"kind":"shape","id":"sh/g3ex0nux","slide":7,"bbox":[0,720,1280,0]}
+{"kind":"shape","id":"sh/rmhk3q5o","slide":7,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/y1kre1w7","slide":7,"bbox":[784,76,370,230]}
+{"kind":"textbox","id":"sh/sji5snel","slide":7,"text":"06 / DETECTION FLOW","textPreview":"06 / DETECTION FLOW","textChars":19,"textLines":1,"bbox":[64,42,610,22]}
+{"kind":"textbox","id":"sh/h4byhgn2","slide":7,"text":"在线识别链路：请求进入后如何判定恶意流量","textPreview":"在线识别链路：请求进入后如何判定恶意流量","textChars":20,"textLines":1,"bbox":[64,66,930,52]}
+{"kind":"shape","id":"sh/adsji5sn","slide":7,"bbox":[992,52,224,32]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":7,"text":"ML TRAFFIC SECURITY","textPreview":"ML TRAFFIC SECURITY","textChars":19,"textLines":1,"bbox":[1000,57,208,24]}
+{"kind":"shape","id":"sh/s72x4nap","slide":7,"bbox":[64,674,1152,0]}
+{"kind":"textbox","id":"sh/lszqtcj6","slide":7,"text":"来源：prediction_service.py、monitor_service.py、security_repository.py","textPreview":"来源：prediction_service.py、monitor_service.py、security_repository.py","textChars":66,"textLines":1,"bbox":[64,684,840,18]}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":7,"text":"07 / 12","textPreview":"07 / 12","textChars":7,"textLines":1,"bbox":[1118,681,98,24]}
+{"kind":"shape","id":"sh/3m94fu18","slide":7,"bbox":[64,166,160,158]}
+{"kind":"shape","id":"sh/s36hcrmh","slide":7,"bbox":[80,184,30,30]}
+{"kind":"textbox","id":"sh/hoza1gvy","slide":7,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[80,188,30,24]}
+{"kind":"textbox","id":"sh/dcbulwva","slide":7,"text":"观测事件","textPreview":"观测事件","textChars":4,"textLines":1,"bbox":[122,183,84,30]}
+{"kind":"textbox","id":"sh/kre1w7mp","slide":7,"text":"目标、源 IP、端口、包长、速率、持续时间","textPreview":"目标、源 IP、端口、包长、速率、持续时间","textChars":21,"textLines":1,"bbox":[84,224,120,88]}
+{"kind":"shape","id":"sh/val87ed8","slide":7,"bbox":[224,245,30,0]}
+{"kind":"shape","id":"sh/6psfil0r","slide":7,"bbox":[254,166,160,158]}
+{"kind":"shape","id":"sh/donyd0z6","slide":7,"bbox":[270,184,30,30]}
+{"kind":"textbox","id":"sh/k3q5o7qp","slide":7,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[270,188,30,24]}
+{"kind":"textbox","id":"sh/vixczed8","slide":7,"text":"特征派生","textPreview":"特征派生","textChars":4,"textLines":1,"bbox":[312,183,84,30]}
+{"kind":"textbox","id":"sh/2x4nap4r","slide":7,"text":"derive_common_features\n生成 15 列模型输入","textPreview":"derive_common_features | 生成 15 列模型输入","textChars":34,"textLines":2,"bbox":[274,224,120,88]}
+{"kind":"shape","id":"sh/d0z61032","slide":7,"bbox":[414,245,30,0]}
+{"kind":"shape","id":"sh/kf6dcbul","slide":7,"bbox":[444,166,160,158]}
+{"kind":"shape","id":"sh/y90je9cv","slide":7,"bbox":[460,184,30,30]}
+{"kind":"textbox","id":"sh/nuxc3ylc","slide":7,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[460,188,30,24]}
+{"kind":"textbox","id":"sh/gbq1oryt","slide":7,"text":"模型推理","textPreview":"模型推理","textChars":4,"textLines":1,"bbox":[502,183,84,30]}
+{"kind":"textbox","id":"sh/5wjudg7a","slide":7,"text":"Decision Tree / Random Forest\npredict + predict_proba","textPreview":"Decision Tree / Random Forest | predict + predict_proba","textChars":53,"textLines":2,"bbox":[464,224,120,88]}
+{"kind":"shape","id":"sh/yhgn29gr","slide":7,"bbox":[604,245,30,0]}
+{"kind":"shape","id":"sh/n29gr2p8","slide":7,"bbox":[634,166,160,158]}
+{"kind":"shape","id":"sh/gn29gr2p","slide":7,"bbox":[650,184,30,30]}
+{"kind":"textbox","id":"sh/58z25kb6","slide":7,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[650,188,30,24]}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":7,"text":"风险映射","textPreview":"风险映射","textChars":4,"textLines":1,"bbox":[692,183,84,30]}
+{"kind":"textbox","id":"sh/neloj2t8","slide":7,"text":"label -> low / medium / high\n输出置信度","textPreview":"label -> low / medium / high | 输出置信度","textChars":34,"textLines":2,"bbox":[654,224,120,88]}
+{"kind":"shape","id":"sh/fepkzupw","slide":7,"bbox":[794,245,30,0]}
+{"kind":"shape","id":"sh/mtwra5gb","slide":7,"bbox":[824,166,160,158]}
+{"kind":"shape","id":"sh/xkf6dcbu","slide":7,"bbox":[840,184,30,30]}
+{"kind":"textbox","id":"sh/4zidonyd","slide":7,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[840,188,30,24]}
+{"kind":"textbox","id":"sh/f6dcbulw","slide":7,"text":"持久化","textPreview":"持久化","textChars":3,"textLines":1,"bbox":[882,183,84,30]}
+{"kind":"textbox","id":"sh/mlkjm1cf","slide":7,"text":"predictions / traffic_events\n写入 SQLite","textPreview":"predictions / traffic_events | 写入 SQLite","textChars":38,"textLines":2,"bbox":[844,224,120,88]}
+{"kind":"shape","id":"sh/xc3ylc7u","slide":7,"bbox":[984,245,30,0]}
+{"kind":"shape","id":"sh/4r65wjud","slide":7,"bbox":[1014,166,160,158]}
+{"kind":"shape","id":"sh/fu18jqh0","slide":7,"bbox":[1030,184,30,30]}
+{"kind":"textbox","id":"sh/m94fu18j","slide":7,"text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[1030,188,30,24]}
+{"kind":"textbox","id":"sh/0bi9s36h","slide":7,"text":"处置联动","textPreview":"处置联动","textChars":4,"textLines":1,"bbox":[1072,183,84,30]}
+{"kind":"textbox","id":"sh/pwb2hwfy","slide":7,"text":"alerts\nblacklist candidate / upserted","textPreview":"alerts | blacklist candidate / upserted","textChars":37,"textLines":2,"bbox":[1034,224,120,88]}
+{"kind":"shape","id":"sh/i5sneloj","slide":7,"bbox":[92,390,500,160]}
+{"kind":"textbox","id":"sh/7qpg3ex0","slide":7,"text":"风险等级映射","textPreview":"风险等级映射","textChars":6,"textLines":1,"bbox":[122,414,200,26]}
+{"kind":"shape","id":"sh/wjudg7ad","slide":7,"bbox":[124,462,112,30]}
+{"kind":"textbox","id":"sh/p4r65wju","slide":7,"text":"benign","textPreview":"benign","textChars":6,"textLines":1,"bbox":[132,467,96,22]}
+{"kind":"textbox","id":"sh/ed8v6psf","slide":7,"text":"low","textPreview":"low","textChars":3,"textLines":1,"bbox":[244,466,72,20]}
+{"kind":"shape","id":"sh/7y1kre1w","slide":7,"bbox":[344,462,112,30]}
+{"kind":"textbox","id":"sh/0nuxc3yl","slide":7,"text":"arp_spoof","textPreview":"arp_spoof","textChars":9,"textLines":1,"bbox":[352,467,96,22]}
+{"kind":"textbox","id":"sh/p8nqxs72","slide":7,"text":"high","textPreview":"high","textChars":4,"textLines":1,"bbox":[464,466,72,20]}
+{"kind":"shape","id":"sh/1kre1w7m","slide":7,"bbox":[124,506,112,30]}
+{"kind":"textbox","id":"sh/c3ylc7u5","slide":7,"text":"ddos","textPreview":"ddos","textChars":4,"textLines":1,"bbox":[132,511,96,22]}
+{"kind":"textbox","id":"sh/ji5snelo","slide":7,"text":"high","textPreview":"high","textChars":4,"textLines":1,"bbox":[244,510,72,20]}
+{"kind":"shape","id":"sh/uxc3ylc7","slide":7,"bbox":[344,506,112,30]}
+{"kind":"textbox","id":"sh/1cfa9w3m","slide":7,"text":"trojan","textPreview":"trojan","textChars":6,"textLines":1,"bbox":[352,511,96,22]}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":7,"text":"medium","textPreview":"medium","textChars":6,"textLines":1,"bbox":[464,510,72,20]}
+{"kind":"shape","id":"sh/j6tovaho","slide":7,"bbox":[650,390,494,160]}
+{"kind":"textbox","id":"sh/ulwval87","slide":7,"text":"可解释输出","textPreview":"可解释输出","textChars":5,"textLines":1,"bbox":[680,414,180,26]}
+{"kind":"textbox","id":"sh/18jqh0fe","slide":7,"text":"predicted_label / predicted_label_id","textPreview":"predicted_label / predicted_label_id","textChars":36,"textLines":1,"bbox":[682,456,390,22]}
+{"kind":"textbox","id":"sh/8nqxs72x","slide":7,"text":"confidence / risk_level / model_name","textPreview":"confidence / risk_level / model_name","textChars":36,"textLines":1,"bbox":[682,482,390,22]}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":7,"text":"top_features / prediction_id","textPreview":"top_features / prediction_id","textChars":28,"textLines":1,"bbox":[682,508,390,22]}
+{"kind":"textbox","id":"sh/b2hwfyxo","slide":7,"text":"alert_created / blacklist_action","textPreview":"alert_created / blacklist_action","textChars":32,"textLines":1,"bbox":[682,534,390,22]}
+{"kind":"notes","id":"nt/dwiwrs","slide":7,"text":"在线识别链路页。解释后端如何从观测事件生成特征、调用模型、映射风险、写库并联动告警/黑名单。"}
+{"kind":"slide","id":"sl/0jcjpm","slide":8,"title":"07 / SECURITY SCREEN","textShapes":37}
+{"kind":"shape","id":"sh/ahoza1gv","slide":8,"bbox":[0,0,0,720]}
+{"kind":"shape","id":"sh/l87ed8ba","slide":8,"bbox":[80,0,0,720]}
+{"kind":"shape","id":"sh/sneloj2t","slide":8,"bbox":[160,0,0,720]}
+{"kind":"shape","id":"sh/3ex0nuxc","slide":8,"bbox":[240,0,0,720]}
+{"kind":"shape","id":"sh/at47y1kr","slide":8,"bbox":[320,0,0,720]}
+{"kind":"shape","id":"sh/lkjm1cfa","slide":8,"bbox":[400,0,0,720]}
+{"kind":"shape","id":"sh/szqtcj6t","slide":8,"bbox":[480,0,0,720]}
+{"kind":"shape","id":"sh/3itgfmlk","slide":8,"bbox":[560,0,0,720]}
+{"kind":"shape","id":"sh/ex0nuxc3","slide":8,"bbox":[640,0,0,720]}
+{"kind":"shape","id":"sh/wfyxobm5","slide":8,"bbox":[720,0,0,720]}
+{"kind":"shape","id":"sh/l0rqd4vm","slide":8,"bbox":[800,0,0,720]}
+{"kind":"shape","id":"sh/ed8bat47","slide":8,"bbox":[880,0,0,720]}
+{"kind":"shape","id":"sh/7u54zido","slide":8,"bbox":[960,0,0,720]}
+{"kind":"shape","id":"sh/wra5gbq1","slide":8,"bbox":[1040,0,0,720]}
+{"kind":"shape","id":"sh/lc7u54zi","slide":8,"bbox":[1120,0,0,720]}
+{"kind":"shape","id":"sh/eloj2t83","slide":8,"bbox":[1200,0,0,720]}
+{"kind":"shape","id":"sh/36hcrmhk","slide":8,"bbox":[1280,0,0,720]}
+{"kind":"shape","id":"sh/wval87ed","slide":8,"bbox":[0,0,1280,0]}
+{"kind":"shape","id":"sh/pg3ex0nu","slide":8,"bbox":[0,80,1280,0]}
+{"kind":"shape","id":"sh/9knih4by","slide":8,"bbox":[0,160,1280,0]}
+{"kind":"shape","id":"sh/kzupwb2h","slide":8,"bbox":[0,240,1280,0]}
+{"kind":"shape","id":"sh/re1w7mp0","slide":8,"bbox":[0,320,1280,0]}
+{"kind":"shape","id":"sh/2t83itgf","slide":8,"bbox":[0,400,1280,0]}
+{"kind":"shape","id":"sh/9w3m94fu","slide":8,"bbox":[0,480,1280,0]}
+{"kind":"shape","id":"sh/kb6xkf6d","slide":8,"bbox":[0,560,1280,0]}
+{"kind":"shape","id":"sh/rqd4vmtw","slide":8,"bbox":[0,640,1280,0]}
+{"kind":"shape","id":"sh/25kb6xkf","slide":8,"bbox":[0,720,1280,0]}
+{"kind":"shape","id":"sh/94fu18jq","slide":8,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/kjm1cfa9","slide":8,"bbox":[784,76,370,230]}
+{"kind":"textbox","id":"sh/udg7adsj","slide":8,"text":"07 / SECURITY SCREEN","textPreview":"07 / SECURITY SCREEN","textChars":20,"textLines":1,"bbox":[64,42,610,22]}
+{"kind":"textbox","id":"sh/nyd0z610","slide":8,"text":"科技感大屏：面向态势感知的第一入口","textPreview":"科技感大屏：面向态势感知的第一入口","textChars":17,"textLines":1,"bbox":[64,66,930,52]}
+{"kind":"shape","id":"sh/cj6tovah","slide":8,"bbox":[992,52,224,32]}
+{"kind":"textbox","id":"sh/54zidony","slide":8,"text":"ML TRAFFIC SECURITY","textPreview":"ML TRAFFIC SECURITY","textChars":19,"textLines":1,"bbox":[1000,57,208,24]}
+{"kind":"shape","id":"sh/upwb2hwf","slide":8,"bbox":[64,674,1152,0]}
+{"kind":"textbox","id":"sh/nap4r65w","slide":8,"text":"来源：frontend/src/main.tsx、SecurityScreenPage.tsx、frontend/src/api/security.ts","textPreview":"来源：frontend/src/main.tsx、SecurityScreenPage.tsx、frontend/src/api/security.ts","textChars":76,"textLines":1,"bbox":[64,684,840,18]}
+{"kind":"textbox","id":"sh/cvixczed","slide":8,"text":"08 / 12","textPreview":"08 / 12","textChars":7,"textLines":1,"bbox":[1118,681,98,24]}
+{"kind":"shape","id":"sh/5gbq1ory","slide":8,"bbox":[74,134,1132,492]}
+{"kind":"textbox","id":"sh/u18jqh0f","slide":8,"text":"恶意流量识别系统","textPreview":"恶意流量识别系统","textChars":8,"textLines":1,"bbox":[108,158,240,24]}
+{"kind":"textbox","id":"sh/jm1cfa9w","slide":8,"text":"安全态势感知大屏","textPreview":"安全态势感知大屏","textChars":8,"textLines":1,"bbox":[108,184,430,42]}
+{"kind":"shape","id":"sh/neloj2t8","slide":8,"bbox":[996,164,164,32]}
+{"kind":"textbox","id":"sh/ytsvu9kn","slide":8,"text":"进入后台 /console","textPreview":"进入后台 /console","textChars":13,"textLines":1,"bbox":[1004,169,148,24]}
+{"kind":"shape","id":"sh/5kb6xkf6","slide":8,"bbox":[788,164,184,32]}
+{"kind":"textbox","id":"sh/czed8v6p","slide":8,"text":"目标 localhost:5174","textPreview":"目标 localhost:5174","textChars":17,"textLines":1,"bbox":[796,169,168,24]}
+{"kind":"shape","id":"sh/nqxs72x4","slide":8,"bbox":[108,250,230,88]}
+{"kind":"textbox","id":"sh/u54zidon","slide":8,"text":"总观测","textPreview":"总观测","textChars":3,"textLines":1,"bbox":[126,266,120,18]}
+{"kind":"textbox","id":"sh/5sneloj2","slide":8,"text":"128","textPreview":"128","textChars":3,"textLines":1,"bbox":[126,292,150,34]}
+{"kind":"shape","id":"sh/cbulwval","slide":8,"bbox":[370,250,230,88]}
+{"kind":"textbox","id":"sh/nuxc3ylc","slide":8,"text":"恶意事件","textPreview":"恶意事件","textChars":4,"textLines":1,"bbox":[388,266,120,18]}
+{"kind":"textbox","id":"sh/y90je9cv","slide":8,"text":"42","textPreview":"42","textChars":2,"textLines":1,"bbox":[388,292,150,34]}
+{"kind":"shape","id":"sh/87ed8bat","slide":8,"bbox":[632,250,230,88]}
+{"kind":"textbox","id":"sh/xs72x4na","slide":8,"text":"正常流量","textPreview":"正常流量","textChars":4,"textLines":1,"bbox":[650,266,120,18]}
+{"kind":"textbox","id":"sh/q1orytsv","slide":8,"text":"86","textPreview":"86","textChars":2,"textLines":1,"bbox":[650,292,150,34]}
+{"kind":"shape","id":"sh/fmlkjm1c","slide":8,"bbox":[894,250,230,88]}
+{"kind":"textbox","id":"sh/8z25kb6x","slide":8,"text":"恶意占比","textPreview":"恶意占比","textChars":4,"textLines":1,"bbox":[912,266,120,18]}
+{"kind":"textbox","id":"sh/1gvy90je","slide":8,"text":"32.8%","textPreview":"32.8%","textChars":5,"textLines":1,"bbox":[912,292,150,34]}
+{"kind":"shape","id":"sh/qtcj6tov","slide":8,"bbox":[108,368,316,186]}
+{"kind":"textbox","id":"sh/je9cvixc","slide":8,"text":"攻击分布","textPreview":"攻击分布","textChars":4,"textLines":1,"bbox":[132,388,160,24]}
+{"kind":"textbox","id":"sh/8v6psfil","slide":8,"text":"DDoS","textPreview":"DDoS","textChars":4,"textLines":1,"bbox":[132,428,74,18]}
+{"kind":"shape","id":"sh/xczed8v6","slide":8,"bbox":[212,430,168,12]}
+{"kind":"shape","id":"sh/hoza1gvy","slide":8,"bbox":[212,430,141.12,12]}
+{"kind":"textbox","id":"sh/s36hcrmh","slide":8,"text":"Trojan","textPreview":"Trojan","textChars":6,"textLines":1,"bbox":[132,466,74,18]}
+{"kind":"shape","id":"sh/zidonyd0","slide":8,"bbox":[212,468,168,12]}
+{"kind":"shape","id":"sh/a1gvy90j","slide":8,"bbox":[212,468,80.64,12]}
+{"kind":"textbox","id":"sh/hgn29gr2","slide":8,"text":"ARP","textPreview":"ARP","textChars":3,"textLines":1,"bbox":[132,504,74,18]}
+{"kind":"shape","id":"sh/svu9knih","slide":8,"bbox":[212,506,168,12]}
+{"kind":"shape","id":"sh/za1gvy90","slide":8,"bbox":[212,506,53.76,12]}
+{"kind":"shape","id":"sh/ap4r65wj","slide":8,"bbox":[458,368,322,186]}
+{"kind":"textbox","id":"sh/h4byhgn2","slide":8,"text":"最新事件","textPreview":"最新事件","textChars":4,"textLines":1,"bbox":[482,388,160,24]}
+{"kind":"shape","id":"sh/sji5snel","slide":8,"bbox":[482,426,76,24]}
+{"kind":"textbox","id":"sh/2lszqtcj","slide":8,"text":"ddos","textPreview":"ddos","textChars":4,"textLines":1,"bbox":[490,431,60,16]}
+{"kind":"textbox","id":"sh/v6psfil0","slide":8,"text":"198.51.100.200","textPreview":"198.51.100.200","textChars":14,"textLines":1,"bbox":[572,428,126,18]}
+{"kind":"textbox","id":"sh/knih4byh","slide":8,"text":"高危","textPreview":"高危","textChars":2,"textLines":1,"bbox":[716,428,44,18]}
+{"kind":"shape","id":"sh/d8bat47y","slide":8,"bbox":[482,464,76,24]}
+{"kind":"textbox","id":"sh/29gr2p8n","slide":8,"text":"trojan","textPreview":"trojan","textChars":6,"textLines":1,"bbox":[490,469,60,16]}
+{"kind":"textbox","id":"sh/vu9knih4","slide":8,"text":"198.51.100.88","textPreview":"198.51.100.88","textChars":13,"textLines":1,"bbox":[572,466,126,18]}
+{"kind":"textbox","id":"sh/kf6dcbul","slide":8,"text":"中危","textPreview":"中危","textChars":2,"textLines":1,"bbox":[716,466,44,18]}
+{"kind":"shape","id":"sh/d0z61032","slide":8,"bbox":[482,502,76,24]}
+{"kind":"textbox","id":"sh/2x4nap4r","slide":8,"text":"benign","textPreview":"benign","textChars":6,"textLines":1,"bbox":[490,507,60,16]}
+{"kind":"textbox","id":"sh/vixczed8","slide":8,"text":"198.51.100.21","textPreview":"198.51.100.21","textChars":13,"textLines":1,"bbox":[572,504,126,18]}
+{"kind":"textbox","id":"sh/rqd4vmtw","slide":8,"text":"低危","textPreview":"低危","textChars":2,"textLines":1,"bbox":[716,504,44,18]}
+{"kind":"shape","id":"sh/25kb6xkf","slide":8,"bbox":[814,368,322,186]}
+{"kind":"textbox","id":"sh/9w3m94fu","slide":8,"text":"大屏能力","textPreview":"大屏能力","textChars":4,"textLines":1,"bbox":[838,388,160,24]}
+{"kind":"shape","id":"sh/kb6xkf6d","slide":8,"bbox":[840,430,8,8]}
+{"kind":"textbox","id":"sh/re1w7mp0","slide":8,"text":"识别对象选择","textPreview":"识别对象选择","textChars":6,"textLines":1,"bbox":[858,422,220,20]}
+{"kind":"shape","id":"sh/2t83itgf","slide":8,"bbox":[840,458,8,8]}
+{"kind":"textbox","id":"sh/9knih4by","slide":8,"text":"新增 localhost 端口","textPreview":"新增 localhost 端口","textChars":15,"textLines":1,"bbox":[858,450,220,20]}
+{"kind":"shape","id":"sh/kzupwb2h","slide":8,"bbox":[840,486,8,8]}
+{"kind":"textbox","id":"sh/ra5gbq1o","slide":8,"text":"模拟攻击触发","textPreview":"模拟攻击触发","textChars":6,"textLines":1,"bbox":[858,478,220,20]}
+{"kind":"shape","id":"sh/2p8nqxs7","slide":8,"bbox":[840,514,8,8]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":8,"text":"Top 来源与告警态势","textPreview":"Top 来源与告警态势","textChars":11,"textLines":1,"bbox":[858,506,220,20]}
+{"kind":"textbox","id":"sh/54zidony","slide":8,"text":"访问路径：`/` 优先进入大屏，点击“进入后台”再进入 `/console` 控制台。","textPreview":"访问路径：`/` 优先进入大屏，点击“进入后台”再进入 `/console` 控制台。","textChars":43,"textLines":1,"bbox":[110,584,960,24]}
+{"kind":"notes","id":"nt/0jcjpm","slide":8,"text":"大屏页。说明根路径优先展示安全态势大屏，并集中呈现目标、统计、分布、最新事件、模拟攻击和后台入口。"}
+{"kind":"slide","id":"sl/glawgc","slide":9,"title":"08 / CONSOLE CAPABILITIES","textShapes":24}
+{"kind":"shape","id":"sh/h0fepkzu","slide":9,"bbox":[0,0,0,720]}
+{"kind":"shape","id":"sh/a9w3m94f","slide":9,"bbox":[80,0,0,720]}
+{"kind":"shape","id":"sh/zupwb2hw","slide":9,"bbox":[160,0,0,720]}
+{"kind":"shape","id":"sh/orytsvu9","slide":9,"bbox":[240,0,0,720]}
+{"kind":"shape","id":"sh/hcrmhk3q","slide":9,"bbox":[320,0,0,720]}
+{"kind":"shape","id":"sh/al87ed8b","slide":9,"bbox":[400,0,0,720]}
+{"kind":"shape","id":"sh/z61032ls","slide":9,"bbox":[480,0,0,720]}
+{"kind":"shape","id":"sh/oza1gvy9","slide":9,"bbox":[560,0,0,720]}
+{"kind":"shape","id":"sh/hk3q5o7q","slide":9,"bbox":[640,0,0,720]}
+{"kind":"shape","id":"sh/hgn29gr2","slide":9,"bbox":[720,0,0,720]}
+{"kind":"shape","id":"sh/svu9knih","slide":9,"bbox":[800,0,0,720]}
+{"kind":"shape","id":"sh/za1gvy90","slide":9,"bbox":[880,0,0,720]}
+{"kind":"shape","id":"sh/ap4r65wj","slide":9,"bbox":[960,0,0,720]}
+{"kind":"shape","id":"sh/hoza1gvy","slide":9,"bbox":[1040,0,0,720]}
+{"kind":"shape","id":"sh/s36hcrmh","slide":9,"bbox":[1120,0,0,720]}
+{"kind":"shape","id":"sh/zidonyd0","slide":9,"bbox":[1200,0,0,720]}
+{"kind":"shape","id":"sh/a1gvy90j","slide":9,"bbox":[1280,0,0,720]}
+{"kind":"shape","id":"sh/lszqtcj6","slide":9,"bbox":[0,0,1280,0]}
+{"kind":"shape","id":"sh/s72x4nap","slide":9,"bbox":[0,80,1280,0]}
+{"kind":"shape","id":"sh/8z25kb6x","slide":9,"bbox":[0,160,1280,0]}
+{"kind":"shape","id":"sh/1gvy90je","slide":9,"bbox":[0,240,1280,0]}
+{"kind":"shape","id":"sh/qtcj6tov","slide":9,"bbox":[0,320,1280,0]}
+{"kind":"shape","id":"sh/je9cvixc","slide":9,"bbox":[0,400,1280,0]}
+{"kind":"shape","id":"sh/87ed8bat","slide":9,"bbox":[0,480,1280,0]}
+{"kind":"shape","id":"sh/xs72x4na","slide":9,"bbox":[0,560,1280,0]}
+{"kind":"shape","id":"sh/q1orytsv","slide":9,"bbox":[0,640,1280,0]}
+{"kind":"shape","id":"sh/fmlkjm1c","slide":9,"bbox":[0,720,1280,0]}
+{"kind":"shape","id":"sh/8jqh0fep","slide":9,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/x4nap4r6","slide":9,"bbox":[784,76,370,230]}
+{"kind":"textbox","id":"sh/n29gr2p8","slide":9,"text":"08 / CONSOLE CAPABILITIES","textPreview":"08 / CONSOLE CAPABILITIES","textChars":25,"textLines":1,"bbox":[64,42,610,22]}
+{"kind":"textbox","id":"sh/yhgn29gr","slide":9,"text":"后台控制台：覆盖检测、回放、黑名单、指标与设置","textPreview":"后台控制台：覆盖检测、回放、黑名单、指标与设置","textChars":23,"textLines":1,"bbox":[64,66,930,52]}
+{"kind":"shape","id":"sh/58z25kb6","slide":9,"bbox":[992,52,224,32]}
+{"kind":"textbox","id":"sh/gn29gr2p","slide":9,"text":"ML TRAFFIC SECURITY","textPreview":"ML TRAFFIC SECURITY","textChars":19,"textLines":1,"bbox":[1000,57,208,24]}
+{"kind":"shape","id":"sh/nuxc3ylc","slide":9,"bbox":[64,674,1152,0]}
+{"kind":"textbox","id":"sh/y90je9cv","slide":9,"text":"来源：frontend/src/router/routes.tsx、frontend/src/pages/*.tsx、README.md","textPreview":"来源：frontend/src/router/routes.tsx、frontend/src/pages/*.tsx、README.md","textChars":68,"textLines":1,"bbox":[64,684,840,18]}
+{"kind":"textbox","id":"sh/5wjudg7a","slide":9,"text":"09 / 12","textPreview":"09 / 12","textChars":7,"textLines":1,"bbox":[1118,681,98,24]}
+{"kind":"shape","id":"sh/gbq1oryt","slide":9,"bbox":[64,146,352,164]}
+{"kind":"shape","id":"sh/nqxs72x4","slide":9,"bbox":[88,172,54,54]}
+{"kind":"textbox","id":"sh/u54zidon","slide":9,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[88,183,54,32]}
+{"kind":"textbox","id":"sh/e1w7mp0b","slide":9,"text":"总览看板","textPreview":"总览看板","textChars":4,"textLines":1,"bbox":[160,174,212,28]}
+{"kind":"textbox","id":"sh/7mp0bi9s","slide":9,"text":"汇总预测总量、恶意占比、开放告警、黑名单数量，并展示趋势与 Top 来源。","textPreview":"汇总预测总量、恶意占比、开放告警、黑名单数量，并展示趋势与 Top 来源。","textChars":37,"textLines":1,"bbox":[160,216,220,68]}
+{"kind":"shape","id":"sh/w7mp0bi9","slide":9,"bbox":[448,146,352,164]}
+{"kind":"shape","id":"sh/psfil0rq","slide":9,"bbox":[472,172,54,54]}
+{"kind":"textbox","id":"sh/epkzupwb","slide":9,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[472,183,54,32]}
+{"kind":"textbox","id":"sh/7adsji5s","slide":9,"text":"流量检测","textPreview":"流量检测","textChars":4,"textLines":1,"bbox":[544,174,212,28]}
+{"kind":"textbox","id":"sh/wval87ed","slide":9,"text":"人工提交源/目的 IP、端口、包长和速率特征，返回类别、风险、置信度和关键特征。","textPreview":"人工提交源/目的 IP、端口、包长和速率特征，返回类别、风险、置信度和关键特征。","textChars":40,"textLines":1,"bbox":[544,216,220,68]}
+{"kind":"shape","id":"sh/pg3ex0nu","slide":9,"bbox":[832,146,352,164]}
+{"kind":"shape","id":"sh/eloj2t83","slide":9,"bbox":[856,172,54,54]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":9,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[856,183,54,32]}
+{"kind":"textbox","id":"sh/t83itgfm","slide":9,"text":"演示回放","textPreview":"演示回放","textChars":4,"textLines":1,"bbox":[928,174,212,28]}
+{"kind":"textbox","id":"sh/4nap4r65","slide":9,"text":"按阶段触发演示流程，辅助讲解攻击态势变化和黑名单生成过程。","textPreview":"按阶段触发演示流程，辅助讲解攻击态势变化和黑名单生成过程。","textChars":29,"textLines":1,"bbox":[928,216,220,68]}
+{"kind":"shape","id":"sh/b2hwfyxo","slide":9,"bbox":[64,354,352,164]}
+{"kind":"shape","id":"sh/mhk3q5o7","slide":9,"bbox":[88,380,54,54]}
+{"kind":"textbox","id":"sh/twra5gbq","slide":9,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[88,391,54,32]}
+{"kind":"textbox","id":"sh/4byhgn29","slide":9,"text":"黑名单管理","textPreview":"黑名单管理","textChars":5,"textLines":1,"bbox":[160,382,212,28]}
+{"kind":"textbox","id":"sh/bq1oryts","slide":9,"text":"展示自动拉黑与人工创建记录，支持新增、删除和来源解释。","textPreview":"展示自动拉黑与人工创建记录，支持新增、删除和来源解释。","textChars":27,"textLines":1,"bbox":[160,424,220,68]}
+{"kind":"shape","id":"sh/m58z25kb","slide":9,"bbox":[448,354,352,164]}
+{"kind":"shape","id":"sh/tsvu9kni","slide":9,"bbox":[472,380,54,54]}
+{"kind":"textbox","id":"sh/47y1kre1","slide":9,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[472,391,54,32]}
+{"kind":"textbox","id":"sh/g3ex0nux","slide":9,"text":"模型指标","textPreview":"模型指标","textChars":4,"textLines":1,"bbox":[544,382,212,28]}
+{"kind":"textbox","id":"sh/5o7qpg3e","slide":9,"text":"读取模型评估报告、混淆矩阵和特征重要性，说明模型表现。","textPreview":"读取模型评估报告、混淆矩阵和特征重要性，说明模型表现。","textChars":27,"textLines":1,"bbox":[544,424,220,68]}
+{"kind":"shape","id":"sh/yxobm58z","slide":9,"bbox":[832,354,352,164]}
+{"kind":"shape","id":"sh/nih4byhg","slide":9,"bbox":[856,380,54,54]}
+{"kind":"textbox","id":"sh/gr2p8nqx","slide":9,"text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[856,391,54,32]}
+{"kind":"textbox","id":"sh/9cvixcze","slide":9,"text":"系统设置","textPreview":"系统设置","textChars":4,"textLines":1,"bbox":[928,382,212,28]}
+{"kind":"textbox","id":"sh/ylc7u54z","slide":9,"text":"展示默认模型、支持模型列表、自动拉黑阈值和演示模式状态。","textPreview":"展示默认模型、支持模型列表、自动拉黑阈值和演示模式状态。","textChars":28,"textLines":1,"bbox":[928,424,220,68]}
+{"kind":"shape","id":"sh/r65wjudg","slide":9,"bbox":[64,584,1152,52]}
+{"kind":"textbox","id":"sh/gfmlkjm1","slide":9,"text":"控制台是面向运维与演示人员的操作面：大屏负责态势展示，控制台负责检测提交、策略维护和模型解释。","textPreview":"控制台是面向运维与演示人员的操作面：大屏负责态势展示，控制台负责检测提交、策略维护和模型解释。","textChars":47,"textLines":1,"bbox":[86,600,1070,22]}
+{"kind":"notes","id":"nt/glawgc","slide":9,"text":"控制台能力页。用功能矩阵覆盖所有前端 console 页面。"}
+{"kind":"slide","id":"sl/00yl38","slide":10,"title":"09 / RESPONSE LOOP","textShapes":28}
+{"kind":"shape","id":"sh/4r65wjud","slide":10,"bbox":[0,0,0,720]}
+{"kind":"shape","id":"sh/f6dcbulw","slide":10,"bbox":[80,0,0,720]}
+{"kind":"shape","id":"sh/mlkjm1cf","slide":10,"bbox":[160,0,0,720]}
+{"kind":"shape","id":"sh/xkf6dcbu","slide":10,"bbox":[240,0,0,720]}
+{"kind":"shape","id":"sh/4zidonyd","slide":10,"bbox":[320,0,0,720]}
+{"kind":"shape","id":"sh/fepkzupw","slide":10,"bbox":[400,0,0,720]}
+{"kind":"shape","id":"sh/mtwra5gb","slide":10,"bbox":[480,0,0,720]}
+{"kind":"shape","id":"sh/xobm58z2","slide":10,"bbox":[560,0,0,720]}
+{"kind":"shape","id":"sh/83itgfml","slide":10,"bbox":[640,0,0,720]}
+{"kind":"shape","id":"sh/y90je9cv","slide":10,"bbox":[720,0,0,720]}
+{"kind":"shape","id":"sh/nuxc3ylc","slide":10,"bbox":[800,0,0,720]}
+{"kind":"shape","id":"sh/gbq1oryt","slide":10,"bbox":[880,0,0,720]}
+{"kind":"shape","id":"sh/5wjudg7a","slide":10,"bbox":[960,0,0,720]}
+{"kind":"shape","id":"sh/yhgn29gr","slide":10,"bbox":[1040,0,0,720]}
+{"kind":"shape","id":"sh/n29gr2p8","slide":10,"bbox":[1120,0,0,720]}
+{"kind":"shape","id":"sh/gn29gr2p","slide":10,"bbox":[1200,0,0,720]}
+{"kind":"shape","id":"sh/58z25kb6","slide":10,"bbox":[1280,0,0,720]}
+{"kind":"shape","id":"sh/ytsvu9kn","slide":10,"bbox":[0,0,1280,0]}
+{"kind":"shape","id":"sh/neloj2t8","slide":10,"bbox":[0,80,1280,0]}
+{"kind":"shape","id":"sh/fepkzupw","slide":10,"bbox":[0,160,1280,0]}
+{"kind":"shape","id":"sh/mtwra5gb","slide":10,"bbox":[0,240,1280,0]}
+{"kind":"shape","id":"sh/xkf6dcbu","slide":10,"bbox":[0,320,1280,0]}
+{"kind":"shape","id":"sh/4zidonyd","slide":10,"bbox":[0,400,1280,0]}
+{"kind":"shape","id":"sh/f6dcbulw","slide":10,"bbox":[0,480,1280,0]}
+{"kind":"shape","id":"sh/mlkjm1cf","slide":10,"bbox":[0,560,1280,0]}
+{"kind":"shape","id":"sh/xc3ylc7u","slide":10,"bbox":[0,640,1280,0]}
+{"kind":"shape","id":"sh/4r65wjud","slide":10,"bbox":[0,720,1280,0]}
+{"kind":"shape","id":"sh/fu18jqh0","slide":10,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/m94fu18j","slide":10,"bbox":[784,76,370,230]}
+{"kind":"textbox","id":"sh/0bi9s36h","slide":10,"text":"09 / RESPONSE LOOP","textPreview":"09 / RESPONSE LOOP","textChars":18,"textLines":1,"bbox":[64,42,610,22]}
+{"kind":"textbox","id":"sh/pwb2hwfy","slide":10,"text":"告警与黑名单：从一次识别到持续处置","textPreview":"告警与黑名单：从一次识别到持续处置","textChars":17,"textLines":1,"bbox":[64,66,930,52]}
+{"kind":"shape","id":"sh/i5sneloj","slide":10,"bbox":[992,52,224,32]}
+{"kind":"textbox","id":"sh/7qpg3ex0","slide":10,"text":"ML TRAFFIC SECURITY","textPreview":"ML TRAFFIC SECURITY","textChars":19,"textLines":1,"bbox":[1000,57,208,24]}
+{"kind":"shape","id":"sh/wjudg7ad","slide":10,"bbox":[64,674,1152,0]}
+{"kind":"textbox","id":"sh/p4r65wju","slide":10,"text":"来源：prediction_service.py、backend/app/core/config.py、blacklist routes","textPreview":"来源：prediction_service.py、backend/app/core/config.py、blacklist routes","textChars":68,"textLines":1,"bbox":[64,684,840,18]}
+{"kind":"textbox","id":"sh/ed8v6psf","slide":10,"text":"10 / 12","textPreview":"10 / 12","textChars":7,"textLines":1,"bbox":[1118,681,98,24]}
+{"kind":"shape","id":"sh/7y1kre1w","slide":10,"bbox":[72,150,1136,170]}
+{"kind":"shape","id":"sh/0nuxc3yl","slide":10,"bbox":[104,184,214,92]}
+{"kind":"shape","id":"sh/p8nqxs72","slide":10,"bbox":[120,202,30,30]}
+{"kind":"textbox","id":"sh/lkjm1cfa","slide":10,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[120,206,30,24]}
+{"kind":"textbox","id":"sh/szqtcj6t","slide":10,"text":"非 benign 预测","textPreview":"非 benign 预测","textChars":11,"textLines":1,"bbox":[162,201,138,30]}
+{"kind":"textbox","id":"sh/3ex0nuxc","slide":10,"text":"alert_created = true","textPreview":"alert_created = true","textChars":20,"textLines":1,"bbox":[124,242,174,22]}
+{"kind":"shape","id":"sh/at47y1kr","slide":10,"bbox":[318,230,54,0]}
+{"kind":"shape","id":"sh/l87ed8ba","slide":10,"bbox":[372,184,214,92]}
+{"kind":"shape","id":"sh/sneloj2t","slide":10,"bbox":[388,202,30,30]}
+{"kind":"textbox","id":"sh/32lszqtc","slide":10,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[388,206,30,24]}
+{"kind":"textbox","id":"sh/ahoza1gv","slide":10,"text":"创建告警","textPreview":"创建告警","textChars":4,"textLines":1,"bbox":[430,201,138,30]}
+{"kind":"textbox","id":"sh/lwval87e","slide":10,"text":"alerts 表记录来源、目标、攻击类型","textPreview":"alerts 表记录来源、目标、攻击类型","textChars":20,"textLines":1,"bbox":[392,242,174,22]}
+{"kind":"shape","id":"sh/wb2hwfyx","slide":10,"bbox":[586,230,54,0]}
+{"kind":"shape","id":"sh/6dcbulwv","slide":10,"bbox":[640,184,214,92]}
+{"kind":"shape","id":"sh/vy90je9c","slide":10,"bbox":[656,202,30,30]}
+{"kind":"textbox","id":"sh/oj2t83it","slide":10,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[656,206,30,24]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":10,"text":"命中计数","textPreview":"命中计数","textChars":4,"textLines":1,"bbox":[698,201,138,30]}
+{"kind":"textbox","id":"sh/61032lsz","slide":10,"text":"count_alert_hits(source_ip, attack_type)","textPreview":"count_alert_hits(source_ip, attack_type)","textChars":40,"textLines":1,"bbox":[660,242,174,22]}
+{"kind":"shape","id":"sh/vmtwra5g","slide":10,"bbox":[854,230,54,0]}
+{"kind":"shape","id":"sh/o7qpg3ex","slide":10,"bbox":[908,184,214,92]}
+{"kind":"shape","id":"sh/dsji5sne","slide":10,"bbox":[924,202,30,30]}
+{"kind":"textbox","id":"sh/6tovahoz","slide":10,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[924,206,30,24]}
+{"kind":"textbox","id":"sh/vahoza1g","slide":10,"text":"自动黑名单","textPreview":"自动黑名单","textChars":5,"textLines":1,"bbox":[966,201,138,30]}
+{"kind":"textbox","id":"sh/r65wjudg","slide":10,"text":"达到阈值后 upsert blacklist","textPreview":"达到阈值后 upsert blacklist","textChars":22,"textLines":1,"bbox":[928,242,174,22]}
+{"kind":"shape","id":"sh/ylc7u54z","slide":10,"bbox":[86,372,500,176]}
+{"kind":"textbox","id":"sh/9cvixcze","slide":10,"text":"自动处置规则","textPreview":"自动处置规则","textChars":6,"textLines":1,"bbox":[116,398,200,28]}
+{"kind":"textbox","id":"sh/gr2p8nqx","slide":10,"text":"默认阈值：同一 source_ip + attack_type 连续命中 2 次后，系统写入或更新黑名单记录。","textPreview":"默认阈值：同一 source_ip + attack_type 连续命中 2 次后，系统写入或更新黑名单记录。","textChars":55,"textLines":1,"bbox":[116,442,408,46]}
+{"kind":"textbox","id":"sh/nih4byhg","slide":10,"text":"第一次命中通常标记为 candidate；达到阈值后 blacklist_action 返回 upserted。","textPreview":"第一次命中通常标记为 candidate；达到阈值后 blacklist_action 返回 upserted。","textChars":56,"textLines":1,"bbox":[116,504,408,30]}
+{"kind":"shape","id":"sh/yxobm58z","slide":10,"bbox":[646,372,500,176]}
+{"kind":"textbox","id":"sh/5o7qpg3e","slide":10,"text":"人工治理能力","textPreview":"人工治理能力","textChars":6,"textLines":1,"bbox":[676,398,200,28]}
+{"kind":"textbox","id":"sh/g3ex0nux","slide":10,"text":"GET /blacklist","textPreview":"GET /blacklist","textChars":14,"textLines":1,"bbox":[676,444,190,20]}
+{"kind":"textbox","id":"sh/rmhk3q5o","slide":10,"text":"查看当前黑名单","textPreview":"查看当前黑名单","textChars":7,"textLines":1,"bbox":[882,444,180,20]}
+{"kind":"textbox","id":"sh/y1kre1w7","slide":10,"text":"POST /blacklist","textPreview":"POST /blacklist","textChars":15,"textLines":1,"bbox":[676,474,190,20]}
+{"kind":"textbox","id":"sh/sji5snel","slide":10,"text":"人工新增处置对象","textPreview":"人工新增处置对象","textChars":8,"textLines":1,"bbox":[882,474,180,20]}
+{"kind":"textbox","id":"sh/h4byhgn2","slide":10,"text":"DELETE /blacklist/{id}","textPreview":"DELETE /blacklist/{id}","textChars":22,"textLines":1,"bbox":[676,504,190,20]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":10,"text":"删除指定记录","textPreview":"删除指定记录","textChars":6,"textLines":1,"bbox":[882,504,180,20]}
+{"kind":"shape","id":"sh/3ylc7u54","slide":10,"bbox":[72,584,1136,48]}
+{"kind":"textbox","id":"sh/s72x4nap","slide":10,"text":"设计价值：把单次分类结果升级为可追踪的安全事件，并通过阈值策略降低“一次误判直接封禁”的处置风险。","textPreview":"设计价值：把单次分类结果升级为可追踪的安全事件，并通过阈值策略降低“一次误判直接封禁”的处置风险。","textChars":49,"textLines":1,"bbox":[94,598,1038,22]}
+{"kind":"notes","id":"nt/00yl38","slide":10,"text":"告警与黑名单页。展示从非正常预测到告警、命中计数和自动黑名单的规则，同时说明人工 CRUD 能力。"}
+{"kind":"slide","id":"sl/7xcbb2","slide":11,"title":"10 / SIMULATION","textShapes":32}
+{"kind":"shape","id":"sh/032lszqt","slide":11,"bbox":[0,0,0,720]}
+{"kind":"shape","id":"sh/bi9s36hc","slide":11,"bbox":[80,0,0,720]}
+{"kind":"shape","id":"sh/ixczed8v","slide":11,"bbox":[160,0,0,720]}
+{"kind":"shape","id":"sh/p0bi9s36","slide":11,"bbox":[240,0,0,720]}
+{"kind":"shape","id":"sh/0fepkzup","slide":11,"bbox":[320,0,0,720]}
+{"kind":"shape","id":"sh/bulwval8","slide":11,"bbox":[400,0,0,720]}
+{"kind":"shape","id":"sh/i9s36hcr","slide":11,"bbox":[480,0,0,720]}
+{"kind":"shape","id":"sh/t47y1kre","slide":11,"bbox":[560,0,0,720]}
+{"kind":"shape","id":"sh/0je9cvix","slide":11,"bbox":[640,0,0,720]}
+{"kind":"shape","id":"sh/a5gbq1or","slide":11,"bbox":[720,0,0,720]}
+{"kind":"shape","id":"sh/3m94fu18","slide":11,"bbox":[800,0,0,720]}
+{"kind":"shape","id":"sh/s72x4nap","slide":11,"bbox":[880,0,0,720]}
+{"kind":"shape","id":"sh/lszqtcj6","slide":11,"bbox":[960,0,0,720]}
+{"kind":"shape","id":"sh/adsji5sn","slide":11,"bbox":[1040,0,0,720]}
+{"kind":"shape","id":"sh/3ylc7u54","slide":11,"bbox":[1120,0,0,720]}
+{"kind":"shape","id":"sh/sji5snel","slide":11,"bbox":[1200,0,0,720]}
+{"kind":"shape","id":"sh/h4byhgn2","slide":11,"bbox":[1280,0,0,720]}
+{"kind":"shape","id":"sh/ap4r65wj","slide":11,"bbox":[0,0,1280,0]}
+{"kind":"shape","id":"sh/za1gvy90","slide":11,"bbox":[0,80,1280,0]}
+{"kind":"shape","id":"sh/ra5gbq1o","slide":11,"bbox":[0,160,1280,0]}
+{"kind":"shape","id":"sh/2p8nqxs7","slide":11,"bbox":[0,240,1280,0]}
+{"kind":"shape","id":"sh/9gr2p8nq","slide":11,"bbox":[0,320,1280,0]}
+{"kind":"shape","id":"sh/gvy90je9","slide":11,"bbox":[0,400,1280,0]}
+{"kind":"shape","id":"sh/r2p8nqxs","slide":11,"bbox":[0,480,1280,0]}
+{"kind":"shape","id":"sh/2hwfyxob","slide":11,"bbox":[0,560,1280,0]}
+{"kind":"shape","id":"sh/94fu18jq","slide":11,"bbox":[0,640,1280,0]}
+{"kind":"shape","id":"sh/kjm1cfa9","slide":11,"bbox":[0,720,1280,0]}
+{"kind":"shape","id":"sh/rqd4vmtw","slide":11,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/25kb6xkf","slide":11,"bbox":[784,76,370,230]}
+{"kind":"textbox","id":"sh/c7u54zid","slide":11,"text":"10 / SIMULATION","textPreview":"10 / SIMULATION","textChars":15,"textLines":1,"bbox":[64,42,610,22]}
+{"kind":"textbox","id":"sh/1orytsvu","slide":11,"text":"模拟攻击与验证：可控场景驱动实时展示","textPreview":"模拟攻击与验证：可控场景驱动实时展示","textChars":18,"textLines":1,"bbox":[64,66,930,52]}
+{"kind":"shape","id":"sh/u18jqh0f","slide":11,"bbox":[992,52,224,32]}
+{"kind":"textbox","id":"sh/jm1cfa9w","slide":11,"text":"ML TRAFFIC SECURITY","textPreview":"ML TRAFFIC SECURITY","textChars":19,"textLines":1,"bbox":[1000,57,208,24]}
+{"kind":"shape","id":"sh/cfa9w3m9","slide":11,"bbox":[64,674,1152,0]}
+{"kind":"textbox","id":"sh/1032lszq","slide":11,"text":"来源：backend/app/services/simulator_service.py、scripts/dev/simulate_site_attack.py","textPreview":"来源：backend/app/services/simulator_service.py、scripts/dev/simulate_site_attack.py","textChars":80,"textLines":1,"bbox":[64,684,840,18]}
+{"kind":"textbox","id":"sh/u9knih4b","slide":11,"text":"11 / 12","textPreview":"11 / 12","textChars":7,"textLines":1,"bbox":[1118,681,98,24]}
+{"kind":"shape","id":"sh/judg7ads","slide":11,"bbox":[64,146,520,128]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":11,"text":"normal_visit","textPreview":"normal_visit","textChars":12,"textLines":1,"bbox":[88,164,180,18]}
+{"kind":"textbox","id":"sh/54zidony","slide":11,"text":"正常访问","textPreview":"正常访问","textChars":4,"textLines":1,"bbox":[88,188,196,28]}
+{"kind":"textbox","id":"sh/hwfyxobm","slide":11,"text":"普通用户浏览网页、加载静态资源和短连接访问。","textPreview":"普通用户浏览网页、加载静态资源和短连接访问。","textChars":22,"textLines":1,"bbox":[88,224,340,34]}
+{"kind":"shape","id":"sh/obm58z25","slide":11,"bbox":[436,192,118,32]}
+{"kind":"textbox","id":"sh/zqtcj6to","slide":11,"text":"预期：benign","textPreview":"预期：benign","textChars":9,"textLines":1,"bbox":[444,197,102,24]}
+{"kind":"shape","id":"sh/65wjudg7","slide":11,"bbox":[644,146,520,128]}
+{"kind":"textbox","id":"sh/hk3q5o7q","slide":11,"text":"http_flood","textPreview":"http_flood","textChars":10,"textLines":1,"bbox":[668,164,180,18]}
+{"kind":"textbox","id":"sh/oza1gvy9","slide":11,"text":"HTTP 洪泛","textPreview":"HTTP 洪泛","textChars":7,"textLines":1,"bbox":[668,188,196,28]}
+{"kind":"textbox","id":"sh/zed8v6ps","slide":11,"text":"大量短连接请求造成突发流量窗口，验证 DDoS 类识别。","textPreview":"大量短连接请求造成突发流量窗口，验证 DDoS 类识别。","textChars":28,"textLines":1,"bbox":[668,224,340,34]}
+{"kind":"shape","id":"sh/6xkf6dcb","slide":11,"bbox":[1016,192,118,32]}
+{"kind":"textbox","id":"sh/hcrmhk3q","slide":11,"text":"预期：ddos","textPreview":"预期：ddos","textChars":7,"textLines":1,"bbox":[1024,197,102,24]}
+{"kind":"shape","id":"sh/orytsvu9","slide":11,"bbox":[64,306,520,128]}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":11,"text":"suspicious_c2","textPreview":"suspicious_c2","textChars":13,"textLines":1,"bbox":[88,324,180,18]}
+{"kind":"textbox","id":"sh/bulwval8","slide":11,"text":"疑似木马通信","textPreview":"疑似木马通信","textChars":6,"textLines":1,"bbox":[88,348,196,28]}
+{"kind":"textbox","id":"sh/0fepkzup","slide":11,"text":"低频、持续时间较长、包长波动明显的 C2 特征。","textPreview":"低频、持续时间较长、包长波动明显的 C2 特征。","textChars":24,"textLines":1,"bbox":[88,384,340,34]}
+{"kind":"shape","id":"sh/p0bi9s36","slide":11,"bbox":[436,352,118,32]}
+{"kind":"textbox","id":"sh/ixczed8v","slide":11,"text":"预期：trojan","textPreview":"预期：trojan","textChars":9,"textLines":1,"bbox":[444,357,102,24]}
+{"kind":"shape","id":"sh/bi9s36hc","slide":11,"bbox":[644,306,520,128]}
+{"kind":"textbox","id":"sh/032lszqt","slide":11,"text":"arp_spoof_lab","textPreview":"arp_spoof_lab","textChars":13,"textLines":1,"bbox":[668,324,180,18]}
+{"kind":"textbox","id":"sh/tovahoza","slide":11,"text":"实验室 ARP 欺骗","textPreview":"实验室 ARP 欺骗","textChars":10,"textLines":1,"bbox":[668,348,196,28]}
+{"kind":"textbox","id":"sh/il0rqd4v","slide":11,"text":"仅用于隔离实验网段的二层攻击特征演示。","textPreview":"仅用于隔离实验网段的二层攻击特征演示。","textChars":19,"textLines":1,"bbox":[668,384,340,34]}
+{"kind":"shape","id":"sh/b6xkf6dc","slide":11,"bbox":[1016,352,118,32]}
+{"kind":"textbox","id":"sh/32lszqtc","slide":11,"text":"预期：arp_spoof","textPreview":"预期：arp_spoof","textChars":12,"textLines":1,"bbox":[1024,357,102,24]}
+{"kind":"shape","id":"sh/ahoza1gv","slide":11,"bbox":[88,492,1096,92]}
+{"kind":"textbox","id":"sh/l87ed8ba","slide":11,"text":"选择目标","textPreview":"选择目标","textChars":4,"textLines":1,"bbox":[116,514,142,22]}
+{"kind":"textbox","id":"sh/sneloj2t","slide":11,"text":"target_id / localhost 端口","textPreview":"target_id / localhost 端口","textChars":24,"textLines":1,"bbox":[116,542,142,18]}
+{"kind":"shape","id":"sh/3ex0nuxc","slide":11,"bbox":[264,536,54,0]}
+{"kind":"textbox","id":"sh/at47y1kr","slide":11,"text":"运行场景","textPreview":"运行场景","textChars":4,"textLines":1,"bbox":[324,514,142,22]}
+{"kind":"textbox","id":"sh/lkjm1cfa","slide":11,"text":"/simulator/run","textPreview":"/simulator/run","textChars":14,"textLines":1,"bbox":[324,542,142,18]}
+{"kind":"shape","id":"sh/szqtcj6t","slide":11,"bbox":[472,536,54,0]}
+{"kind":"textbox","id":"sh/3itgfmlk","slide":11,"text":"写入观测","textPreview":"写入观测","textChars":4,"textLines":1,"bbox":[532,514,142,22]}
+{"kind":"textbox","id":"sh/ex0nuxc3","slide":11,"text":"/monitor/ingest","textPreview":"/monitor/ingest","textChars":15,"textLines":1,"bbox":[532,542,142,18]}
+{"kind":"shape","id":"sh/ovahoza1","slide":11,"bbox":[680,536,54,0]}
+{"kind":"textbox","id":"sh/dg7adsji","slide":11,"text":"模型识别","textPreview":"模型识别","textChars":4,"textLines":1,"bbox":[740,514,142,22]}
+{"kind":"textbox","id":"sh/6tovahoz","slide":11,"text":"/predict","textPreview":"/predict","textChars":8,"textLines":1,"bbox":[740,542,142,18]}
+{"kind":"shape","id":"sh/vahoza1g","slide":11,"bbox":[888,536,54,0]}
+{"kind":"textbox","id":"sh/onyd0z61","slide":11,"text":"大屏刷新","textPreview":"大屏刷新","textChars":4,"textLines":1,"bbox":[948,514,142,22]}
+{"kind":"textbox","id":"sh/d8v6psfi","slide":11,"text":"summary / events","textPreview":"summary / events","textChars":16,"textLines":1,"bbox":[948,542,142,18]}
+{"kind":"textbox","id":"sh/6hcrmhk3","slide":11,"text":"安全边界：模拟脚本默认生成模型观测事件，用于验证识别与展示链路；ARP 欺骗场景应限定在隔离实验网段。","textPreview":"安全边界：模拟脚本默认生成模型观测事件，用于验证识别与展示链路；ARP 欺骗场景应限定在隔离实验网段。","textChars":51,"textLines":1,"bbox":[96,610,1038,24]}
+{"kind":"notes","id":"nt/7xcbb2","slide":11,"text":"模拟攻击页。展示四类可控场景和验证路径，说明脚本用于受控验证而非真实攻击公网目标。"}
+{"kind":"slide","id":"sl/29w5t6","slide":12,"title":"11 / DEPLOYMENT & ROADMAP","textShapes":26}
+{"kind":"shape","id":"sh/rqd4vmtw","slide":12,"bbox":[0,0,0,720]}
+{"kind":"shape","id":"sh/kb6xkf6d","slide":12,"bbox":[80,0,0,720]}
+{"kind":"shape","id":"sh/9w3m94fu","slide":12,"bbox":[160,0,0,720]}
+{"kind":"shape","id":"sh/2t83itgf","slide":12,"bbox":[240,0,0,720]}
+{"kind":"shape","id":"sh/re1w7mp0","slide":12,"bbox":[320,0,0,720]}
+{"kind":"shape","id":"sh/kzupwb2h","slide":12,"bbox":[400,0,0,720]}
+{"kind":"shape","id":"sh/9knih4by","slide":12,"bbox":[480,0,0,720]}
+{"kind":"shape","id":"sh/2p8nqxs7","slide":12,"bbox":[560,0,0,720]}
+{"kind":"shape","id":"sh/ra5gbq1o","slide":12,"bbox":[640,0,0,720]}
+{"kind":"shape","id":"sh/3m94fu18","slide":12,"bbox":[720,0,0,720]}
+{"kind":"shape","id":"sh/a5gbq1or","slide":12,"bbox":[800,0,0,720]}
+{"kind":"shape","id":"sh/lszqtcj6","slide":12,"bbox":[880,0,0,720]}
+{"kind":"shape","id":"sh/s72x4nap","slide":12,"bbox":[960,0,0,720]}
+{"kind":"shape","id":"sh/3ylc7u54","slide":12,"bbox":[1040,0,0,720]}
+{"kind":"shape","id":"sh/adsji5sn","slide":12,"bbox":[1120,0,0,720]}
+{"kind":"shape","id":"sh/h4byhgn2","slide":12,"bbox":[1200,0,0,720]}
+{"kind":"shape","id":"sh/sji5snel","slide":12,"bbox":[1280,0,0,720]}
+{"kind":"shape","id":"sh/za1gvy90","slide":12,"bbox":[0,0,1280,0]}
+{"kind":"shape","id":"sh/ap4r65wj","slide":12,"bbox":[0,80,1280,0]}
+{"kind":"shape","id":"sh/yd0z6103","slide":12,"bbox":[0,160,1280,0]}
+{"kind":"shape","id":"sh/rytsvu9k","slide":12,"bbox":[0,240,1280,0]}
+{"kind":"shape","id":"sh/gfmlkjm1","slide":12,"bbox":[0,320,1280,0]}
+{"kind":"shape","id":"sh/90je9cvi","slide":12,"bbox":[0,400,1280,0]}
+{"kind":"shape","id":"sh/y1kre1w7","slide":12,"bbox":[0,480,1280,0]}
+{"kind":"shape","id":"sh/rmhk3q5o","slide":12,"bbox":[0,560,1280,0]}
+{"kind":"shape","id":"sh/g7adsji5","slide":12,"bbox":[0,640,1280,0]}
+{"kind":"shape","id":"sh/9s36hcrm","slide":12,"bbox":[0,720,1280,0]}
+{"kind":"shape","id":"sh/yxobm58z","slide":12,"bbox":[0,0,1280,720]}
+{"kind":"shape","id":"sh/nih4byhg","slide":12,"bbox":[784,76,370,230]}
+{"kind":"textbox","id":"sh/dg7adsji","slide":12,"text":"11 / DEPLOYMENT & ROADMAP","textPreview":"11 / DEPLOYMENT & ROADMAP","textChars":25,"textLines":1,"bbox":[64,42,610,22]}
+{"kind":"textbox","id":"sh/ovahoza1","slide":12,"text":"部署与演进路线：从演示系统走向可接入平台","textPreview":"部署与演进路线：从演示系统走向可接入平台","textChars":20,"textLines":1,"bbox":[64,66,930,52]}
+{"kind":"shape","id":"sh/vahoza1g","slide":12,"bbox":[992,52,224,32]}
+{"kind":"textbox","id":"sh/6tovahoz","slide":12,"text":"ML TRAFFIC SECURITY","textPreview":"ML TRAFFIC SECURITY","textChars":19,"textLines":1,"bbox":[1000,57,208,24]}
+{"kind":"shape","id":"sh/d8v6psfi","slide":12,"bbox":[64,674,1152,0]}
+{"kind":"textbox","id":"sh/onyd0z61","slide":12,"text":"来源：docs/deployment/README.md、deploy/*、ecosystem.config.cjs、docs/architecture/README.md","textPreview":"来源：docs/deployment/README.md、deploy/*、ecosystem.config.cjs、docs/architecture/README.md","textChars":86,"textLines":1,"bbox":[64,684,840,18]}
+{"kind":"textbox","id":"sh/z25kb6xk","slide":12,"text":"12 / 12","textPreview":"12 / 12","textChars":7,"textLines":1,"bbox":[1118,681,98,24]}
+{"kind":"shape","id":"sh/6hcrmhk3","slide":12,"bbox":[64,150,352,284]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":12,"text":"当前工程基础","textPreview":"当前工程基础","textChars":6,"textLines":1,"bbox":[92,178,240,30]}
+{"kind":"shape","id":"sh/oj2t83it","slide":12,"bbox":[94,238,10,10]}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":12,"text":"FastAPI + SQLite 服务","textPreview":"FastAPI + SQLite 服务","textChars":19,"textLines":1,"bbox":[114,228,260,24]}
+{"kind":"shape","id":"sh/1cfa9w3m","slide":12,"bbox":[94,282,10,10]}
+{"kind":"textbox","id":"sh/ulwval87","slide":12,"text":"React/Vite 前端","textPreview":"React/Vite 前端","textChars":13,"textLines":1,"bbox":[114,272,260,24]}
+{"kind":"shape","id":"sh/j6tovaho","slide":12,"bbox":[94,326,10,10]}
+{"kind":"textbox","id":"sh/c3ylc7u5","slide":12,"text":"PM2 / Nginx 部署材料","textPreview":"PM2 / Nginx 部署材料","textChars":16,"textLines":1,"bbox":[114,316,260,24]}
+{"kind":"shape","id":"sh/1kre1w7m","slide":12,"bbox":[94,370,10,10]}
+{"kind":"textbox","id":"sh/uxc3ylc7","slide":12,"text":"pytest 与构建验证","textPreview":"pytest 与构建验证","textChars":12,"textLines":1,"bbox":[114,360,260,24]}
+{"kind":"shape","id":"sh/ji5snelo","slide":12,"bbox":[448,150,352,284]}
+{"kind":"textbox","id":"sh/8bat47y1","slide":12,"text":"生产化增强","textPreview":"生产化增强","textChars":5,"textLines":1,"bbox":[476,178,240,30]}
+{"kind":"shape","id":"sh/1w7mp0bi","slide":12,"bbox":[478,238,10,10]}
+{"kind":"textbox","id":"sh/7ed8bat4","slide":12,"text":"接入真实流量采集器","textPreview":"接入真实流量采集器","textChars":9,"textLines":1,"bbox":[498,228,260,24]}
+{"kind":"shape","id":"sh/itgfmlkj","slide":12,"bbox":[478,282,10,10]}
+{"kind":"textbox","id":"sh/pkzupwb2","slide":12,"text":"扩大数据集与标签质量","textPreview":"扩大数据集与标签质量","textChars":10,"textLines":1,"bbox":[498,272,260,24]}
+{"kind":"shape","id":"sh/0z61032l","slide":12,"bbox":[478,326,10,10]}
+{"kind":"textbox","id":"sh/72x4nap4","slide":12,"text":"引入时间切分与线上评估","textPreview":"引入时间切分与线上评估","textChars":11,"textLines":1,"bbox":[498,316,260,24]}
+{"kind":"shape","id":"sh/ih4byhgn","slide":12,"bbox":[478,370,10,10]}
+{"kind":"textbox","id":"sh/p8nqxs72","slide":12,"text":"误报/漏报反馈闭环","textPreview":"误报/漏报反馈闭环","textChars":9,"textLines":1,"bbox":[498,360,260,24]}
+{"kind":"shape","id":"sh/0nuxc3yl","slide":12,"bbox":[832,150,352,284]}
+{"kind":"textbox","id":"sh/7y1kre1w","slide":12,"text":"平台化演进","textPreview":"平台化演进","textChars":5,"textLines":1,"bbox":[860,178,240,30]}
+{"kind":"shape","id":"sh/ed8v6psf","slide":12,"bbox":[862,238,10,10]}
+{"kind":"textbox","id":"sh/mlkjm1cf","slide":12,"text":"多站点统一资产管理","textPreview":"多站点统一资产管理","textChars":9,"textLines":1,"bbox":[882,228,260,24]}
+{"kind":"shape","id":"sh/f6dcbulw","slide":12,"bbox":[862,282,10,10]}
+{"kind":"textbox","id":"sh/4r65wjud","slide":12,"text":"策略规则与模型组合","textPreview":"策略规则与模型组合","textChars":9,"textLines":1,"bbox":[882,272,260,24]}
+{"kind":"shape","id":"sh/xc3ylc7u","slide":12,"bbox":[862,326,10,10]}
+{"kind":"textbox","id":"sh/mtwra5gb","slide":12,"text":"告警分级派单","textPreview":"告警分级派单","textChars":6,"textLines":1,"bbox":[882,316,260,24]}
+{"kind":"shape","id":"sh/fepkzupw","slide":12,"bbox":[862,370,10,10]}
+{"kind":"textbox","id":"sh/4zidonyd","slide":12,"text":"报表、审计与权限体系","textPreview":"报表、审计与权限体系","textChars":10,"textLines":1,"bbox":[882,360,260,24]}
+{"kind":"shape","id":"sh/xkf6dcbu","slide":12,"bbox":[90,494,1096,84]}
+{"kind":"shape","id":"sh/qxs72x4n","slide":12,"bbox":[122,520,154,34]}
+{"kind":"textbox","id":"sh/fil0rqd4","slide":12,"text":"React/Vite","textPreview":"React/Vite","textChars":10,"textLines":1,"bbox":[130,525,138,26]}
+{"kind":"shape","id":"sh/1orytsvu","slide":12,"bbox":[276,537,44,0]}
+{"kind":"shape","id":"sh/c7u54zid","slide":12,"bbox":[326,520,154,34]}
+{"kind":"textbox","id":"sh/jm1cfa9w","slide":12,"text":"Nginx / PM2","textPreview":"Nginx / PM2","textChars":11,"textLines":1,"bbox":[334,525,138,26]}
+{"kind":"shape","id":"sh/u18jqh0f","slide":12,"bbox":[480,537,44,0]}
+{"kind":"shape","id":"sh/1032lszq","slide":12,"bbox":[530,520,154,34]}
+{"kind":"textbox","id":"sh/cfa9w3m9","slide":12,"text":"FastAPI / Uvicorn","textPreview":"FastAPI / Uvicorn","textChars":17,"textLines":1,"bbox":[538,525,138,26]}
+{"kind":"shape","id":"sh/judg7ads","slide":12,"bbox":[684,537,44,0]}
+{"kind":"shape","id":"sh/u9knih4b","slide":12,"bbox":[734,520,154,34]}
+{"kind":"textbox","id":"sh/54zidony","slide":12,"text":"SQLite / Models","textPreview":"SQLite / Models","textChars":15,"textLines":1,"bbox":[742,525,138,26]}
+{"kind":"shape","id":"sh/cj6tovah","slide":12,"bbox":[888,537,44,0]}
+{"kind":"shape","id":"sh/4fu18jqh","slide":12,"bbox":[938,520,154,34]}
+{"kind":"textbox","id":"sh/x0nuxc3y","slide":12,"text":"Future Collector","textPreview":"Future Collector","textChars":16,"textLines":1,"bbox":[946,525,138,26]}
+{"kind":"textbox","id":"sh/m94fu18j","slide":12,"text":"总结：项目已经具备“目标接入、特征识别、实时展示、告警处置、模拟验证、部署运行”的完整闭环，下一阶段重点是把流量采集和数据规模做实。","textPreview":"总结：项目已经具备“目标接入、特征识别、实时展示、告警处置、模拟验证、部署运行”的完整闭环，下一阶段重点是把流量采集和数据规模做实。","textChars":66,"textLines":1,"bbox":[96,608,1060,34]}
+{"kind":"notes","id":"nt/29w5t6","slide":12,"text":"收尾页。说明当前部署基础和后续生产化路线，最后总结项目闭环能力。"}
